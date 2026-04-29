@@ -1,0 +1,142 @@
+Object,Category
+nitrate,Metabolite utilization
+maltose,Metabolite utilization
+esculin,Metabolite utilization
+sucrose,Metabolite utilization
+urea,Metabolite utilization
+gelatin,Metabolite utilization
+glucose,Metabolite utilization
+arginine,Metabolite utilization
+raffinose,Metabolite utilization
+lactose,Metabolite utilization
+tryptophan,Metabolite utilization
+N-acetylglucosamine,Metabolite utilization
+nitrite,Metabolite utilization
+cellobiose,Metabolite utilization
+trehalose,Metabolite utilization
+citrate,Metabolite utilization
+D-ribose,Metabolite utilization
+fructose,Metabolite utilization
+melibiose,Metabolite utilization
+malate,Metabolite utilization
+mannitol,Metabolite utilization
+myo-inositol,Metabolite utilization
+gluconate,Metabolite utilization
+glycogen,Metabolite utilization
+mannose,Metabolite utilization
+salicin,Metabolite utilization
+xylose,Metabolite utilization
+glycerol,Metabolite utilization
+starch,Metabolite utilization
+adipate,Metabolite utilization
+rhamnose,Metabolite utilization
+D-galactose,Metabolite utilization
+decanoate,Metabolite utilization
+hippurate,Metabolite utilization
+ornithine,Metabolite utilization
+tween 80,Metabolite utilization
+cellulose,Metabolite utilization
+acetate,Metabolite utilization
+amygdalin,Metabolite utilization
+lysine,Metabolite utilization
+turanose,Metabolite utilization
+tween 40,Metabolite utilization
+casein,Metabolite utilization
+D-sorbitol,Metabolite utilization
+lactate,Metabolite utilization
+propionate,Metabolite utilization
+succinate,Metabolite utilization
+tween 20,Metabolite utilization
+malonate,Metabolite utilization
+L-fucose,Metabolite utilization
+ribitol,Metabolite utilization
+L-serine,Metabolite utilization
+D-arabitol,Metabolite utilization
+xylitol,Metabolite utilization
+L-alanine,Metabolite utilization
+L-histidine,Metabolite utilization
+D-arabinose,Metabolite utilization
+tween 60,Metabolite utilization
+formate,Metabolite utilization
+Agar,Microbial growth medium components
+Aminobenzoic acid,Microbial growth medium components
+BH3O3,Microbial growth medium components
+Beef extract,Microbial growth medium components
+Biotinate,Microbial growth medium components
+Br(-),Microbial growth medium components
+Ca(2+),Microbial growth medium components
+Casamino acids,Microbial growth medium components
+Casein hydrolysate,Microbial growth medium components
+Casitone,Microbial growth medium components
+Catalase,Medium components
+Cl(-),Microbial growth medium components
+Co(2+),Microbial growth medium components
+Columbia Agar,Microbial growth medium components
+Cu(2+),Microbial growth medium components
+Cysteine,Microbial growth medium components
+Edetic Acid,Microbial growth medium components
+F(-),Microbial growth medium components
+Fe(3+),Microbial growth medium components
+Folate,Microbial growth medium components
+Glutamate,Microbial growth medium components
+Ground beef,Microbial growth medium components
+H(+),Microbial growth medium components
+HCO3(-),Microbial growth medium components
+Haemin,Microbial growth medium components
+Horse blood,Microbial growth medium components
+K(+),Microbial growth medium components
+L-Asparagine,Microbial growth medium components
+L-Tyrosine,Microbial growth medium components
+Lactic acid,Microbial growth medium components
+Lipoate,Microbial growth medium components
+Malachite green cation,Medium components
+Malt extract,Microbial growth medium components
+Marine agar,Microbial growth medium components
+Meat extract,Microbial growth medium components
+Mg(2+),Microbial growth medium components
+Mn(2+),Microbial growth medium components
+MoO4(2-),Microbial growth medium components
+N-Z-Amine,Microbial growth medium components
+NH4(+),Microbial growth medium components
+NO3(-),Microbial growth medium components
+Na(+),Microbial growth medium components
+Ni(2+),Microbial growth medium components
+Nitrobenzol,Medium components
+OH(-),Microbial growth medium components
+Oats,Microbial growth medium components
+PAN,Microbial growth medium components
+PO4(3-),Microbial growth medium components
+Peptone,Microbial growth medium components
+Proteose Peptone,Microbial growth medium components
+Pyridoxine,Microbial growth medium components
+Resazurin,Medium components
+Riboflavine,Microbial growth medium components
+S(2-),Microbial growth medium components
+S2O3(2-),Microbial growth medium components
+SO4(2-),Microbial growth medium components
+SeO3(2-),Microbial growth medium components
+Sheep blood,Microbial growth medium components
+Silicate,Microbial growth medium components
+Soy peptone,Microbial growth medium components
+Soybean Flour,Microbial growth medium components
+Soytone,Microbial growth medium components
+Sr(2+),Microbial growth medium components
+Thiamine,Microbial growth medium components
+Trace element,Microbial growth medium components
+Tryptone,Microbial growth medium components
+Tryptone Soy Broth,Microbial growth medium components
+Tryptone casein soy agar,Microbial growth medium components
+Tween,Microbial growth medium components
+Vitamin Mix,Microbial growth medium components
+WO4(2-),Microbial growth medium components
+Yeast Extract,Microbial growth medium components
+Zn(2+),Microbial growth medium components
+brain_heart,Microbial growth medium components
+Gram_type,Phenotypic Characteristics
+Oxygen_type,Phenotypic Characteristics
+Spore,Phenotypic Characteristics
+hemolysis,Phenotypic Characteristics
+Motility,Phenotypic Characteristics
+Temperature_optgrow,Ecophysiological Characteristics
+Halophily_optgrow,Ecophysiological Characteristics
+ph_optgrow,Ecophysiological Characteristics

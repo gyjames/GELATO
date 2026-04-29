@@ -1,0 +1,7314 @@
+{
+    "H2O": [
+        "H2O",
+        "H2O"
+    ],
+    "Meat extract": [
+        "Meat extract"
+    ],
+    "Peptone": [
+        "Peptone"
+    ],
+    "Agar": [
+        "Agar"
+    ],
+    "Trypticase soy broth": [
+        "Tryptone Soy Broth"
+    ],
+    "Columbia agar base": [
+        "Columbia Agar"
+    ],
+    "Distilled water": [
+        "H2O"
+    ],
+    "Columbia agar": [
+        "Columbia Agar"
+    ],
+    "distilled water": [
+        "H2O"
+    ],
+    "Trypto casein soy agar": [
+        "Tryptone casein soy agar"
+    ],
+    "Ultra pure water ": [
+        "H2O"
+    ],
+    "Peptic Digest of Casein": [
+        "Casein hydrolysate"
+    ],
+    "Soy Flour": [
+        "Soybean Flour"
+    ],
+    "Ferrous Sulfate": [
+        "SO4(2-)",
+        "Fe(3+)"
+    ],
+    "Casamino Acids": [
+        "Casamino acids"
+    ],
+    "Magnesium sulfate": [
+        "SO4(2-)",
+        "Mg(2+)"
+    ],
+    "Na-pyruvate": [
+        "Na(+)",
+        "Pyruvate"
+    ],
+    "Yeast extract": [
+        "Yeast Extract"
+    ],
+    "D-Glucose": [
+        "D-Glucose"
+    ],
+    "Proteose Peptone": [
+        "Proteose Peptone"
+    ],
+    "Starch": [
+        "Starch"
+    ],
+    "NaCl": [
+        "Na(+)",
+        "Cl(-)"
+    ],
+    "Tryptone": [
+        "Tryptone"
+    ],
+    "Sodium chloride": [
+        "Na(+)",
+        "Cl(-)"
+    ],
+    "Bacto Agar": [
+        "Agar"
+    ],
+    "Peptone from soy": [
+        "Soy peptone"
+    ],
+    "CoCl2": [
+        "Cl(-)",
+        "Cl(-)",
+        "Co(2+)"
+    ],
+    "MnCl2": [
+        "Cl(-)",
+        "Cl(-)",
+        "Mn(2+)"
+    ],
+    "Iron sulfate": [
+        "SO4(2-)",
+        "Fe(3+)"
+    ],
+    "CuCl2": [
+        "Cl(-)",
+        "Cl(-)",
+        "Cu(2+)"
+    ],
+    "Ammonium sulfate": [
+        "NH4(+)",
+        "NH4(+)",
+        "SO4(2-)"
+    ],
+    "Na2MoO4": [
+        "MoO4(2-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "Boric acid": [
+        "BH3O3"
+    ],
+    "Magnesium chloride": [
+        "Mg(2+)",
+        "Cl(-)",
+        "Cl(-)"
+    ],
+    "NiCl2": [
+        "Cl(-)",
+        "Cl(-)",
+        "Ni(2+)"
+    ],
+    "EDTA": [
+        "Edetic Acid"
+    ],
+    "ZnSO4": [
+        "SO4(2-)",
+        "Zn(2+)"
+    ],
+    "Sodium hydroxide": [
+        "OH(-)",
+        "Na(+)"
+    ],
+    "Ca(NO3)2": [
+        "Ca(2+)",
+        "NO3(-)",
+        "NO3(-)"
+    ],
+    "defibrinated sheep blood": [
+        "Sheep blood"
+    ],
+    "brain heart infusion": [
+        "brain_heart"
+    ],
+    "Malt extract": [
+        "Malt extract"
+    ],
+    "Glucose": [
+        "D-Glucose",
+        "D-Glucose"
+    ],
+    "Dog oat flakes": [
+        "Oats"
+    ],
+    "Trace element 5314": [
+        "Trace element"
+    ],
+    "L-Asparagine": [
+        "L-Asparagine"
+    ],
+    "CaCO3": [
+        "Ca(2+)",
+        "HCO3(-)"
+    ],
+    "K2HPO4": [
+        "K(+)",
+        "K(+)",
+        "PO4(3-)"
+    ],
+    "MgSO4 x 7 H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "(NH4)2SO4": [
+        "NH4(+)",
+        "NH4(+)",
+        "SO4(2-)"
+    ],
+    "FeSO4 x 7 H2O": [
+        "Fe(3+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "MnCx 4 H2O": [
+        "Mn(2+)",
+        "H2O",
+        "H2O"
+    ],
+    "ZnSO4 x 7 H2O": [
+        "SO4(2-)",
+        "Zn(2+)",
+        "H2O",
+        "H2O"
+    ],
+    "Glycerol": [
+        "Glycerol"
+    ],
+    "Beef extract": [
+        "Beef extract"
+    ],
+    "Tween 80": [
+        "Tween"
+    ],
+    "Triple sugar": [
+        "Triple sugar"
+    ],
+    "Sodium acetate": [
+        "Acetate",
+        "Na(+)"
+    ],
+    "Sodium L-lactate": [
+        "Lactic acid",
+        "Na(+)"
+    ],
+    "Cysteine-HCl": [
+        "Cysteine",
+        "H(+)",
+        "Cl(-)"
+    ],
+    "Resazurin": [
+        "Resazurin"
+    ],
+    "Sodium propionate": [
+        "Propionate",
+        "Na(+)"
+    ],
+    "Man Rogosa Sharp agar": [
+        "Man Rogosa Sharp agar"
+    ],
+    "Man Rogosa Sharp broth": [
+        "Broth"
+    ],
+    "MnSO4": [
+        "SO4(2-)",
+        "Mn(2+)"
+    ],
+    "(NH4) citrate": [
+        "NH4(+)",
+        "Citrate"
+    ],
+    "Na-acetate": [
+        "Na(+)",
+        "Acetate"
+    ],
+    "Calcium chloride": [
+        "Cl(-)",
+        "Cl(-)",
+        "Ca(2+)"
+    ],
+    "trypticase peptone": [
+        "Tryptone"
+    ],
+    "Vitamin K1": [
+        "Vitamin K1"
+    ],
+    "CO2": [
+        "CO2",
+        "CO2"
+    ],
+    "Ethanol": [
+        "Dimethyl ether"
+    ],
+    "haemin": [
+        "Haemin"
+    ],
+    "sodium bicarbonate": [
+        "HCO3(-)",
+        "Na(+)"
+    ],
+    "Soya Peptone": [
+        "Soya peptone"
+    ],
+    "Casein peptone": [
+        "Casitone"
+    ],
+    "Soy peptone": [
+        "Soy peptone"
+    ],
+    "Peptone mixture": [
+        "Peptone"
+    ],
+    "Tris": [
+        "Tris maleate"
+    ],
+    "Cysteine-HCl x H2O": [
+        "Cysteine",
+        "H(+)",
+        "Cl(-)",
+        "H2O",
+        "H2O"
+    ],
+    "MnSO4 x 4 H2O": [
+        "SO4(2-)",
+        "Mn(2+)",
+        "H2O",
+        "H2O"
+    ],
+    "Horse blood": [
+        "Horse blood"
+    ],
+    "Tryptone Soy Agar": [
+        "Tryptone soy agar"
+    ],
+    "Brain Heart Infusion Agar": [
+        "brain_heart"
+    ],
+    "Brain heart infusion agar": [
+        "brain_heart"
+    ],
+    "Dextrose": [
+        "D-Glucose"
+    ],
+    "Horseblood": [
+        "Horse blood"
+    ],
+    "PolyVitex mischung": [
+        "Mischung"
+    ],
+    "Sheepblood": [
+        "Sheep blood"
+    ],
+    "Globular extract": [
+        "Globular extract"
+    ],
+    "Fresh potatoes": [
+        "Potato"
+    ],
+    "Peptone from meat": [
+        "Peptone"
+    ],
+    "Coenzyme B12": [
+        "Ca(2+)"
+    ],
+    "casitone": [
+        "Casitone"
+    ],
+    "KOH": [
+        "K(+)",
+        "OH(-)"
+    ],
+    "MgSO4 x 7": [
+        "Mg(2+)",
+        "SO4(2-)"
+    ],
+    "Baker's yeast": [
+        "Yeast Extract"
+    ],
+    "Yeast Baker": [
+        "Yeast Extract"
+    ],
+    "CaCx 2 H2O": [
+        "Ca(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Myxobacteria": [
+        "Mycobactine"
+    ],
+    "Sodium pyruvate": [
+        "Pyruvate",
+        "Na(+)"
+    ],
+    "Ammonium chloride": [
+        "NH4(+)",
+        "Cl(-)"
+    ],
+    "Rolled oats": [
+        "Oats"
+    ],
+    "Casein Peptone No. 2": [
+        "Casitone"
+    ],
+    "FeSO4\u00b77H2O": [
+        "Fe(3+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2S2O3\u00b77H2O": [
+        "Na(+)",
+        "Na(+)",
+        "S2O3(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Yeast Extract": [
+        "Yeast Extract"
+    ],
+    "L-Tyrosine": [
+        "L-Tyrosine"
+    ],
+    "Trace element ": [
+        "Trace element"
+    ],
+    "Soytone bacto": [
+        "Soytone",
+        "Soytone"
+    ],
+    "KH2PO4": [
+        "K(+)",
+        "PO4(3-)"
+    ],
+    "NH4Cl": [
+        "NH4(+)",
+        "Cl(-)"
+    ],
+    "Trace element SL": [
+        "Trace element"
+    ],
+    "Brain Heart Infusion": [
+        "brain_heart"
+    ],
+    "Proteose peptone": [
+        "Proteose Peptone"
+    ],
+    "Na-formate": [
+        "Na(+)",
+        "Formate"
+    ],
+    "Na-resazurin ": [
+        "Na(+)",
+        "Resazurin"
+    ],
+    "NaHCO3": [
+        "Na(+)",
+        "HCO3(-)"
+    ],
+    "Vitamins ": [
+        "Vitamin Mix"
+    ],
+    "L-Cysteine-HCl x H2O": [
+        "Cysteine",
+        "Cysteine",
+        "H(+)",
+        "Cl(-)",
+        "H2O",
+        "H2O"
+    ],
+    "Na2S x 9 H2O": [
+        "Na(+)",
+        "Na(+)",
+        "S(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "Coenzyme M": [
+        "CoA"
+    ],
+    "HCl": [
+        "Cl(-)"
+    ],
+    "ZnCl2": [
+        "Cl(-)",
+        "Cl(-)",
+        "Zn(2+)"
+    ],
+    "2-methylbutyric acid": [
+        "2-methylbutyric acid"
+    ],
+    "Isovaleric acid": [
+        "3-hydroxy-3-methyl-butanal"
+    ],
+    "isobutyric acid": [
+        "Methyl propanoate"
+    ],
+    "Valeric acid": [
+        "Valerate"
+    ],
+    "Iron chloride": [
+        "Cl(-)",
+        "Cl(-)",
+        "Fe(3+)"
+    ],
+    "Sludge fluid": [
+        "Sludge"
+    ],
+    "isopropanol": [
+        "Isopropanol"
+    ],
+    "Bacto Peptone": [
+        "Tryptone"
+    ],
+    "Bacto Yeast Extract": [
+        "Yeast Extract"
+    ],
+    "Fe(III) citrate": [
+        "Fe(3+)",
+        "Citrate"
+    ],
+    "MgCl2": [
+        "Mg(2+)",
+        "Cl(-)",
+        "Cl(-)"
+    ],
+    "Na2SO4": [
+        "SO4(2-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "CaCl2": [
+        "Cl(-)",
+        "Cl(-)",
+        "Ca(2+)"
+    ],
+    "KCl": [
+        "Cl(-)",
+        "K(+)"
+    ],
+    "Na2CO3": [
+        "HCO3(-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "KBr": [
+        "K(+)",
+        "Br(-)"
+    ],
+    "SrCl2": [
+        "Sr(2+)",
+        "Cl(-)",
+        "Cl(-)"
+    ],
+    "H3BO3": [
+        "BH3O3"
+    ],
+    "Na-silicate": [
+        "Na(+)",
+        "Silicate"
+    ],
+    "NaF": [
+        "Na(+)",
+        "F(-)"
+    ],
+    "(NH4)NO3": [
+        "NH4(+)",
+        "NO3(-)"
+    ],
+    "Na2HPO4": [
+        "Na(+)",
+        "Na(+)",
+        "PO4(3-)"
+    ],
+    "Bacto Soytone": [
+        "Soytone"
+    ],
+    "Cystein": [
+        "Cysteine"
+    ],
+    "L-Cysteine": [
+        "Cysteine"
+    ],
+    "Fastidious Anaerobe Basal Broth": [
+        "Broth"
+    ],
+    "Na2S2O3 x 5 H2O": [
+        "Na(+)",
+        "Na(+)",
+        "S2O3(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Resazurin ": [
+        "Resazurin"
+    ],
+    "Vitamin ": [
+        "Vitamin Mix",
+        "Vitamin Mix"
+    ],
+    "Lipoic Acid": [
+        "Lipoate"
+    ],
+    "Pantothenic Acid": [
+        "PAN"
+    ],
+    "Riboflavin": [
+        "Riboflavine"
+    ],
+    "Biotin": [
+        "Biotinate"
+    ],
+    "Folic Acid": [
+        "Folate"
+    ],
+    "Vitamin B12": [
+        "Vitamin B12",
+        "Vitamin B12"
+    ],
+    "Ground beef (fat free)": [
+        "Ground beef"
+    ],
+    "N-Z-Amine": [
+        "N-Z-Amine"
+    ],
+    "Cellobiose": [
+        "Trehalose"
+    ],
+    "Maltose": [
+        "Trehalose"
+    ],
+    "Mineral ": [
+        "Mineral",
+        "Mineral"
+    ],
+    "Trace Metal ": [
+        "Trace element"
+    ],
+    "MES": [
+        "MES"
+    ],
+    "Peptone from casein": [
+        "Casitone"
+    ],
+    "Peptone from soymeal": [
+        "Soy peptone"
+    ],
+    "2-chlorobenzoic acid": [
+        "4-Chlorobenzoate"
+    ],
+    "Lab-Lemco beef extract": [
+        "Lab-Lemco Beef Extract"
+    ],
+    "Na-succinate": [
+        "Na(+)",
+        "Succinate"
+    ],
+    "horse blood": [
+        "Horse blood"
+    ],
+    "Cooked meat medium": [
+        "Cooked meat medium"
+    ],
+    "hydrogen phosphate": [
+        "PO4(3-)"
+    ],
+    "Starch maize": [
+        "Starch"
+    ],
+    "FeSO4 x 7 H2O ": [
+        "Fe(3+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "Trace element SL -10": [
+        "Trace element"
+    ],
+    "Selenite-tungstate ": [
+        "SeO3(2-)",
+        "WO4(2-)"
+    ],
+    "Fatty acid mixture": [
+        "Fatty acid mix"
+    ],
+    "Methanol": [
+        "Methanol"
+    ],
+    "Trypticase Peptone": [
+        "Tryptone"
+    ],
+    "Haemin ": [
+        "Haemin"
+    ],
+    "Vitamin K3 ": [
+        "2,3-methylenedioxynaphthalene"
+    ],
+    "DL-Dithiothreitol": [
+        "Dithiothreitol"
+    ],
+    "D-Ca-pantothenate": [
+        "Ca(2+)",
+        "PAN"
+    ],
+    "Pyridoxine HCl": [
+        "Pyridoxine",
+        "H(+)",
+        "Cl(-)"
+    ],
+    "Thiamine-HCl": [
+        "Thiamine",
+        "H(+)",
+        "Cl(-)"
+    ],
+    "Sodium benzoate": [
+        "Na(+)",
+        "Benzoate"
+    ],
+    "Sodium sulfate": [
+        "SO4(2-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "Folic acid": [
+        "Folate"
+    ],
+    "Na2WO4": [
+        "Na(+)",
+        "Na(+)",
+        "WO4(2-)"
+    ],
+    "sodium-EDTA": [
+        "Na(+)",
+        "Edetic Acid"
+    ],
+    "Niacin": [
+        "Nitrobenzol"
+    ],
+    "Lipoic acid": [
+        "Lipoate"
+    ],
+    "Sodium selenite": [
+        "SeO3(2-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "p Aminobenzoic acid (PABA)": [
+        "Aminobenzoic acid"
+    ],
+    "Mannitol": [
+        "L-mannitol"
+    ],
+    "Air-dried garden soil": [
+        "Garden soil"
+    ],
+    "Sodium carbonate": [
+        "HCO3(-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "D-Panthothenic acid": [
+        "D-Panthothenic acid"
+    ],
+    "Nicotine amide": [
+        "Ni(2+)",
+        "Cotinine"
+    ],
+    "Pyridoxamine 2 HCl": [
+        "Pyridoxine",
+        "Cl(-)"
+    ],
+    "a-lipoic acid": [
+        "A-lipoic acid"
+    ],
+    "D-Mannitol": [
+        "L-mannitol"
+    ],
+    "NaVO3": [
+        "Na(+)",
+        "VO(2+)",
+        "VO(2+)",
+        "VO(2+)"
+    ],
+    "Na2-Succinate": [
+        "Na(+)",
+        "Na(+)",
+        "Succinate"
+    ],
+    "DL-Malate": [
+        "Malate"
+    ],
+    "Na-Lactate": [
+        "Na(+)",
+        "Lactic acid"
+    ],
+    "MgSO4 x 7H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Tyrosine": [
+        "L-Tyrosine"
+    ],
+    "L-arginine": [
+        "Arginine"
+    ],
+    "L-glutamic acid": [
+        "Glutamate"
+    ],
+    "L-methionine": [
+        "ZINC"
+    ],
+    "L-isoleucine": [
+        "L-isoleucine"
+    ],
+    "CuSO4 x 5 H2O": [
+        "Cu(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "MnSO4 x 7 H2O": [
+        "SO4(2-)",
+        "Mn(2+)",
+        "H2O",
+        "H2O"
+    ],
+    "Vitamin K": [
+        "Vitamin K1"
+    ],
+    "L-cysteine HCl": [
+        "Cysteine",
+        "H(+)",
+        "Cl(-)"
+    ],
+    "Hemine": [
+        "Hemine"
+    ],
+    "sodium succinate": [
+        "Succinate"
+    ],
+    "Sodium Pyrophosphate": [
+        "Na(+)"
+    ],
+    "Fe(III)citrate": [
+        "Fe(3+)",
+        "Citrate"
+    ],
+    "bacto Yeast extract": [
+        "Yeast Extract"
+    ],
+    "bacto Peptone": [
+        "Tryptone"
+    ],
+    "NH4H2PO4": [
+        "NH4(+)",
+        "PO4(3-)"
+    ],
+    "Catalase": [
+        "Catalase"
+    ],
+    "Sucrose": [
+        "Trehalose"
+    ],
+    "Dextrin": [
+        "Globotriose"
+    ],
+    "Tryptone soy broth": [
+        "Tryptone Soy Broth"
+    ],
+    "Hemin ": [
+        "Hemine"
+    ],
+    "Brain heart infusion": [
+        "brain_heart"
+    ],
+    "Brainheart infusion agar": [
+        "brain_heart"
+    ],
+    "Formate ": [
+        "Formaldehyde"
+    ],
+    "Fumaric acid ": [
+        "Squaric\u00a0acid"
+    ],
+    "MgCl2.6H2O": [
+        "Mg(2+)",
+        "Cl(-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Casamino Acid": [
+        "Casamino acids"
+    ],
+    "Beef Extract": [
+        "Beef extract"
+    ],
+    "NH4NO3": [
+        "NH4(+)",
+        "NO3(-)"
+    ],
+    "Na2S2O3 x 9 H2O": [
+        "Na(+)",
+        "Na(+)",
+        "S2O3(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "Cysteine HCl": [
+        "Cysteine",
+        "H(+)",
+        "Cl(-)"
+    ],
+    "NiCx 6 H2O": [
+        "Ni(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Trace Element ": [
+        "Trace element"
+    ],
+    "Artificial Seawater: ml/l": [
+        "Seawater"
+    ],
+    "Proteose Peptone No. 3": [
+        "Proteose Peptone"
+    ],
+    "Soluble Starch": [
+        "Soluble starch"
+    ],
+    "Na-Pyruvate": [
+        "Na(+)",
+        "Pyruvate"
+    ],
+    "Na-p-Hydroxybenzoate": [
+        "Na(+)",
+        "4-Hydroxybenzoate"
+    ],
+    "diethyl phosphonate": [
+        "Diethyl phosphonate"
+    ],
+    "Na3-Citrate": [
+        "Na(+)",
+        "Na(+)",
+        "Na(+)",
+        "Citrate"
+    ],
+    "Na-glutamate": [
+        "Na(+)",
+        "Glutamate"
+    ],
+    "Lab-lemco meat extract": [
+        "Meat extract"
+    ],
+    "Horse serum": [
+        "Horse Serum"
+    ],
+    "Brainheart infusion": [
+        "brain_heart"
+    ],
+    "Maltose % ": [
+        "Trehalose"
+    ],
+    "Tryptone casein soy agar": [
+        "Tryptone casein soy agar"
+    ],
+    "ACES": [
+        "ACES"
+    ],
+    "Fe4(PO4)2": [
+        "Fe(3+)",
+        "Fe(3+)",
+        "Fe(3+)",
+        "Fe(3+)",
+        "PO4(3-)",
+        "PO4(3-)"
+    ],
+    "activated charcoal": [
+        "Charcoal"
+    ],
+    "Legionella agar": [
+        "Legionella agar"
+    ],
+    "KNO3": [
+        "NO3(-)",
+        "K(+)"
+    ],
+    "Potassium nitrate": [
+        "NO3(-)",
+        "K(+)"
+    ],
+    "Casein hydrolysate": [
+        "Casein hydrolysate"
+    ],
+    "Agar noble": [
+        "Agar"
+    ],
+    "Mueller Hinton agar": [
+        "Mueller Hinton agar"
+    ],
+    "Distilled water ": [
+        "H2O",
+        "H2O"
+    ],
+    "Casamino acids": [
+        "Casamino acids"
+    ],
+    "Columbia Agar": [
+        "Columbia Agar"
+    ],
+    "Horse Blood": [
+        "Horse blood"
+    ],
+    "Distilled Water": [
+        "H2O"
+    ],
+    "Sheep blood": [
+        "Sheep blood"
+    ],
+    "Tryptone Soy Broth": [
+        "Tryptone Soy Broth"
+    ],
+    "L-cysteine-HCl x H2O": [
+        "Cysteine",
+        "Cysteine",
+        "H(+)",
+        "Cl(-)",
+        "H2O",
+        "H2O"
+    ],
+    "D-glucose": [
+        "D-Glucose"
+    ],
+    "Dithiothreitol": [
+        "2-hydroxyethyldisulfide"
+    ],
+    "GAM Broth ": [
+        "GAM Broth"
+    ],
+    "Deionized water": [
+        "H2O"
+    ],
+    "Soil extract": [
+        "Soil extract"
+    ],
+    "Fish-Sperm DNA": [
+        "Fish-Sperm DNA"
+    ],
+    "L-Glutamine": [
+        "L-isoglutamine"
+    ],
+    "Ferric Nitrate": [
+        "NO3(-)",
+        "NO3(-)",
+        "Fe(3+)",
+        "NO3(-)"
+    ],
+    "Urea": [
+        "CN(-)",
+        "H(+)",
+        "H(+)",
+        "H(+)",
+        "H(+)"
+    ],
+    "Heart infusion": [
+        "Heart infusion"
+    ],
+    "NAD": [
+        "1,2-dihydro-beta-NAD"
+    ],
+    "L-Cystine": [
+        "D-cystine"
+    ],
+    "Yeast Enriched Peptone": [
+        "Yeast Extract"
+    ],
+    "Adenine": [
+        "2-aminopurine"
+    ],
+    "Phenol red": [
+        "Phenol red"
+    ],
+    "Na2-citrate": [
+        "Na(+)",
+        "Na(+)",
+        "Citrate"
+    ],
+    "Potassium chloride": [
+        "Cl(-)",
+        "K(+)"
+    ],
+    "Citric acid": [
+        "Citrate"
+    ],
+    "Trypticase peptone": [
+        "Tryptone"
+    ],
+    "sodium thiosulfate": [
+        "SO3(2-)",
+        "SO3(2-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "Na2-EDTA": [
+        "Na(+)",
+        "Na(+)",
+        "EDTA"
+    ],
+    "Acetic acid": [
+        "Acetate"
+    ],
+    "Calf serum": [
+        "Calf serum"
+    ],
+    "Calcium carbonate": [
+        "HCO3(-)",
+        "Ca(2+)"
+    ],
+    "formate": [
+        "Formaldehyde"
+    ],
+    "Na-thioglycolate": [
+        "Na(+)",
+        "Thioglycolic"
+    ],
+    "uric acid": [
+        "Uric acid"
+    ],
+    "Casitone": [
+        "Casitone"
+    ],
+    "D-Fructose": [
+        "D-Glucose"
+    ],
+    "DL-dithiothreitol": [
+        "Dithiothreitol"
+    ],
+    "Na-(DL)-lactate": [
+        "Na(+)",
+        "Lactic acid"
+    ],
+    "Sodium nitrate": [
+        "NO3(-)",
+        "Na(+)"
+    ],
+    "Trypticase": [
+        "Tryptone"
+    ],
+    "Na-fumarate": [
+        "Na(+)",
+        "Fumaric acid"
+    ],
+    "Growth supplement": [
+        "Growth supplement"
+    ],
+    "Kanamycin-sulfate": [
+        "Kanamycin-sulfate"
+    ],
+    "Phosphate buffer": [
+        "Phosphate buffer"
+    ],
+    "Aerobacter aerogenes": [
+        "Aerobacter aerogenes"
+    ],
+    "Cy-Agar": [
+        "Cy-Agar"
+    ],
+    "Skim milk": [
+        "Skim milk"
+    ],
+    "sodium sulphide": [
+        "S(2-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "Sodium bicarbonate": [
+        "HCO3(-)",
+        "Na(+)"
+    ],
+    "Bordet gengou agar": [
+        "Bordet gengou agar"
+    ],
+    "Bordetgengou agar": [
+        "Bordet gengou agar"
+    ],
+    "Defibrinated horse blood": [
+        "Horse blood"
+    ],
+    "Sodium thiosulphate": [
+        "Na(+)",
+        "S2O3(2-)"
+    ],
+    "H2SO4": [
+        "SO4(2-)"
+    ],
+    "Maize extract": [
+        "Maize extract"
+    ],
+    "Oatmeal": [
+        "Oats"
+    ],
+    "Oat flakes": [
+        "Oats"
+    ],
+    "MgCx 6H2O": [
+        "Mg(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CaCx 2H2O": [
+        "Ca(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Tryptone Peptone": [
+        "Tryptone"
+    ],
+    "Trace elements SL -8": [
+        "Trace element"
+    ],
+    "Mannose": [
+        "D-Glucose"
+    ],
+    "CuSO4": [
+        "Cu(2+)",
+        "SO4(2-)"
+    ],
+    "KI": [
+        "K(+)",
+        "I(-)"
+    ],
+    "NaBr": [
+        "Na(+)",
+        "Br(-)"
+    ],
+    "CoSO4": [
+        "Co(2+)",
+        "SO4(2-)"
+    ],
+    "potassium alum": [
+        "K(+)"
+    ],
+    "Fetal bovine serum": [
+        "Bovine serum"
+    ],
+    "DNA": [
+        "DNA"
+    ],
+    "Swine serum": [
+        "Swine serum"
+    ],
+    "MgC6H2O": [
+        "Mg(2+)",
+        "C6H2O"
+    ],
+    "MgSO4 7H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CaC2H2O": [
+        "Ca(2+)",
+        "Ethyno"
+    ],
+    "Na-benzoate": [
+        "Na(+)",
+        "Benzoate"
+    ],
+    "DL-Na-malate": [
+        "Na-malate"
+    ],
+    "NaClO3": [
+        "Na(+)",
+        "ClO3(-)"
+    ],
+    "NH4HCO3": [
+        "NH4(+)",
+        "HCO3(-)"
+    ],
+    "blood": [
+        "Blood"
+    ],
+    "MgSO4\u00b77H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Marine agar": [
+        "Marine agar"
+    ],
+    "Na2CO3 anhydrous": [
+        "Na(+)",
+        "Na(+)",
+        "HCO3(-)",
+        "Anhydrous"
+    ],
+    "casein hydrolysate": [
+        "Casein hydrolysate"
+    ],
+    "L-Cysteine-HCl": [
+        "Cysteine",
+        "Cysteine",
+        "H(+)",
+        "Cl(-)"
+    ],
+    "Hemin": [
+        "Hemine"
+    ],
+    "Propionic acid": [
+        "Propionate"
+    ],
+    "iso-Butyric acid": [
+        "Iso-Butyric acid"
+    ],
+    "n-Valeric acid": [
+        "Valerate"
+    ],
+    "iso-Valeric acid": [
+        "Iso-Valeric acid"
+    ],
+    "Meat filtrate": [
+        "Maize extract"
+    ],
+    "Sodium Pyruvate": [
+        "Pyruvate",
+        "Na(+)"
+    ],
+    "L-Glutamic acid": [
+        "Glutamate"
+    ],
+    "Malachite green": [
+        "Malachite green cation",
+        "Cl(-)"
+    ],
+    "Na-citrate": [
+        "Na(+)",
+        "Citrate"
+    ],
+    "Oleic Acid": [
+        "2Z-octadecenoate"
+    ],
+    "Sea salts": [
+        "Sea salts"
+    ],
+    "Cellulose": [
+        "Cellulose"
+    ],
+    "sodium silicate": [
+        "Silicate"
+    ],
+    "Fe3PO4": [
+        "Fe(3+)",
+        "Fe(3+)",
+        "Fe(3+)",
+        "PO4(3-)"
+    ],
+    "Bacto Tryptic Soy Broth without Dextrose": [
+        "Tryptone Soy Broth"
+    ],
+    "Sea water": [
+        "Seawater"
+    ],
+    "Trypticaes peptone": [
+        "Tryptone"
+    ],
+    "Butyric acid": [
+        "Butyrate"
+    ],
+    "Rumen fluid": [
+        "Rumen fluid"
+    ],
+    "L-Proline": [
+        "L-Proline"
+    ],
+    "Streptomycin sulfate": [
+        "Streptomycin sulfate"
+    ],
+    "Tris/HCl buffer": [
+        "Tris-HCl buffer"
+    ],
+    "Thymidine": [
+        "HC Yellow No. 4"
+    ],
+    "Diaminopimelic acid": [
+        "Diaminopimelic acid"
+    ],
+    "Glycine": [
+        "Glycolamide"
+    ],
+    "DL-Asparagine": [
+        "L-Asparagine"
+    ],
+    "L-Arginine x HCl": [
+        "Arginine",
+        "Cl(-)"
+    ],
+    "Na2citrate": [
+        "Na(+)",
+        "Na(+)",
+        "Citrate"
+    ],
+    "L-Tryptophan": [
+        "Cyclo(Gly-Phe)"
+    ],
+    "L-Histidine": [
+        "Bacimethrin pyrophosphate"
+    ],
+    "FeCl3": [
+        "Cl(-)",
+        "Cl(-)",
+        "Cl(-)",
+        "Fe(3+)"
+    ],
+    "Trace elements": [
+        "Trace element"
+    ],
+    "MnSO4 x H2O": [
+        "SO4(2-)",
+        "Mn(2+)",
+        "H2O",
+        "H2O"
+    ],
+    "FeCx 6H2O": [
+        "Fe(3+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "MnSO4 x 7H2O": [
+        "SO4(2-)",
+        "Mn(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Traceelement-": [
+        "Trace element"
+    ],
+    "Neomycin-sulfate": [
+        "Neomycin",
+        "SO4(2-)"
+    ],
+    "Cycloheximide": [
+        "Cycloheximide"
+    ],
+    "Peptic Digest of Animal Tissues": [
+        "Peptone"
+    ],
+    "Casein Peptone": [
+        "Casitone"
+    ],
+    "Liver Concentrate": [
+        "Liver Concentrate"
+    ],
+    "sterile horse blood": [
+        "Horse blood"
+    ],
+    "MgCl2\u00b76H2O": [
+        "Mg(2+)",
+        "Cl(-)",
+        "Cl(-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "HEPES": [
+        "H(+)",
+        "EPES"
+    ],
+    "Mineral salt ": [
+        "Mineral"
+    ],
+    "Artificial sea water": [
+        "Seawater"
+    ],
+    "N-Acetylglucosamine": [
+        "Acetyl glucosamine"
+    ],
+    "Fresh Yeast extract": [
+        "Yeast Extract"
+    ],
+    "Brain Heart Infusion ": [
+        "brain_heart"
+    ],
+    "Trypic Soybroth": [
+        "Tryptone Soy Broth"
+    ],
+    "Sodium Chloride": [
+        "Na(+)",
+        "Cl(-)"
+    ],
+    "Erythromycin": [
+        "Erythromycin"
+    ],
+    "magnesium citrate": [
+        "Citrate"
+    ],
+    "Potato flour": [
+        "Potato flour"
+    ],
+    "Tween": [
+        "Tween"
+    ],
+    "R2A agar": [
+        "R2A"
+    ],
+    "Middlebrook OADC ": [
+        "OADC"
+    ],
+    "agar": [
+        "Agar"
+    ],
+    "Middelbrook OADC ": [
+        "OADC"
+    ],
+    "Soya Pepton": [
+        "Soy peptone"
+    ],
+    "Malt Extract": [
+        "Malt extract"
+    ],
+    "Chloramphenicol": [
+        "Chloramphenicol"
+    ],
+    "MgSO4 \u2022 7H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "L-Asparagin": [
+        "L-Asparagine"
+    ],
+    "Sucrose ": [
+        "Trehalose"
+    ],
+    "Casein hydrolysate acid hydrolyzed vitamine-free": [
+        "Casein hydrolysate"
+    ],
+    "Heart infusion broth": [
+        "Heart infusion"
+    ],
+    "Ammonium sulphate": [
+        "SO4(2-)",
+        "NH4(+)",
+        "NH4(+)"
+    ],
+    "Peptonized horse blood": [
+        "Horse blood"
+    ],
+    "Proteose peptone No. 3": [
+        "Proteose Peptone"
+    ],
+    "Meat infusion": [
+        "Meat infusion"
+    ],
+    "Columbia Agar Base": [
+        "Columbia Agar"
+    ],
+    "Defibrinating agent": [
+        "Defibrinating agent"
+    ],
+    "Na2-fumarate": [
+        "Na(+)",
+        "Na(+)",
+        "Fumaric acid"
+    ],
+    "VOSO4": [
+        "VO(2+)",
+        "SO4(2-)"
+    ],
+    "sodium tetraborate": [
+        "Sodium tetraborate"
+    ],
+    "Trypic Soy Broth": [
+        "Tryptone Soy Broth"
+    ],
+    "Menadione": [
+        "2,3-methylenedioxynaphthalene"
+    ],
+    "beef infusion": [
+        "Beef extract"
+    ],
+    "DL-Na-lactate": [
+        "Lactic acid"
+    ],
+    "Ascorbic acid": [
+        "Ascorbic acid"
+    ],
+    "Haemin": [
+        "Haemin"
+    ],
+    "Colistina sulfate": [
+        "Colistina sulfate"
+    ],
+    "Forsman Haemolysin": [
+        "Hemolysin"
+    ],
+    "Vancomycin": [
+        "Vancomycin"
+    ],
+    "Amphoteric B": [
+        "Amphotericin B"
+    ],
+    "Maize starch": [
+        "Maize starch"
+    ],
+    "Earth extract": [
+        "Earth extract"
+    ],
+    "H befor": [
+        "H(+)"
+    ],
+    "Vitamin B": [
+        "Vitamin Mix"
+    ],
+    "Maltose ": [
+        "Trehalose",
+        "Trehalose"
+    ],
+    "MEM Vitamin ": [
+        "MEM Vitamin"
+    ],
+    "Kanamycin sulfate": [
+        "Kanamycin",
+        "SO4(2-)"
+    ],
+    "Galactose": [
+        "D-Glucose"
+    ],
+    "Raffinose": [
+        "Globotriose"
+    ],
+    "Inosine": [
+        "Inosine"
+    ],
+    "neomycin": [
+        "Neomycin"
+    ],
+    "DL-mevalonic acid": [
+        "Mevalonic acid"
+    ],
+    "Iron": [
+        "Fe(3+)"
+    ],
+    "Filtered tomato juice": [
+        "Tomato juice"
+    ],
+    "Marine broth": [
+        "Marine Broth"
+    ],
+    "Middlebrook 7HAgar": [
+        "H(+)",
+        "H(+)",
+        "H(+)",
+        "H(+)",
+        "H(+)",
+        "H(+)",
+        "H(+)",
+        "Agar",
+        "H(+)",
+        "H(+)",
+        "H(+)",
+        "H(+)",
+        "H(+)",
+        "H(+)",
+        "H(+)",
+        "Agar"
+    ],
+    "OADC-": [
+        "OADC"
+    ],
+    "Bovine Serum Albumin, fraction V": [
+        "Bovine serum"
+    ],
+    "bacto Beef extract": [
+        "Beef extract"
+    ],
+    "Thymine": [
+        "Thymine"
+    ],
+    "Calf brain infusion": [
+        "Calf brain infusion"
+    ],
+    "Beef heart infusion": [
+        "Beef heart infusion"
+    ],
+    "Casein": [
+        "Casein"
+    ],
+    "Putrescine": [
+        "Putrescine"
+    ],
+    "K2CO3": [
+        "K(+)",
+        "K(+)",
+        "HCO3(-)"
+    ],
+    "Asparagine": [
+        "L-Asparagine"
+    ],
+    "NTA": [
+        "NTA"
+    ],
+    "NaNTA": [
+        "Na(+)",
+        "NTA"
+    ],
+    "NaH2PO4": [
+        "H2PO4(-)",
+        "Na(+)"
+    ],
+    "Thioctic acid": [
+        "Lipoate"
+    ],
+    "Thiamine HCl": [
+        "Cl(-)",
+        "H(+)",
+        "Thiamine"
+    ],
+    "Succinic acid": [
+        "Fumaric acid"
+    ],
+    "Vitamins - M00646": [
+        "Vitamin Mix"
+    ],
+    "sulphate": [
+        "SO4(2-)"
+    ],
+    "Potato infusion": [
+        "Potato infusion"
+    ],
+    "Casein peptone, tryptic digest": [
+        "Casitone"
+    ],
+    "(NH4)3 citrate": [
+        "NH4(+)",
+        "Citrate"
+    ],
+    "Cysteine-HCL x H2O": [
+        "Cysteine",
+        "H(+)",
+        "Cl(-)",
+        "H2O",
+        "H2O"
+    ],
+    "barium chloride": [
+        "Cl(-)",
+        "Cl(-)",
+        "Ba(2+)"
+    ],
+    "Synthetic sea ": [
+        "Seawater"
+    ],
+    "Potassium Chloride": [
+        "Cl(-)",
+        "K(+)"
+    ],
+    "Sodium glutamate": [
+        "Na(+)",
+        "Glutamate"
+    ],
+    "Fe EDTA": [
+        "Fe(3+)",
+        "EDTA"
+    ],
+    "SrC6H2O": [
+        "Sr(2+)",
+        "C6H2O"
+    ],
+    "Enzymatic digest of casein": [
+        "Casein hydrolysate"
+    ],
+    "Agar Difco": [
+        "Agar"
+    ],
+    "Nitrilotriacetate": [
+        "Isosorbide mononitrate"
+    ],
+    "Vitamin B6 ": [
+        "Pyridoxine phosphate"
+    ],
+    "clarified rumen fluid": [
+        "Rumen fluid"
+    ],
+    "Agarose": [
+        "Agarotetraose"
+    ],
+    "Water": [
+        "H2O",
+        "H2O"
+    ],
+    "Leptospira EMJH": [
+        "Leptospira EMJH"
+    ],
+    "Sodium formate": [
+        "Formate",
+        "Na(+)"
+    ],
+    "Sodium fumarate": [
+        "Na(+)",
+        "Fumaric acid"
+    ],
+    "Defibrinated sheep blood": [
+        "Sheep blood"
+    ],
+    "Ca-pantothenate": [
+        "Ca(2+)",
+        "PAN"
+    ],
+    "p-Aminobenzoate": [
+        "3-aminobenzoate"
+    ],
+    " trace elements": [
+        "Trace element"
+    ],
+    "CaCl2x6H2O": [
+        "Ca(2+)",
+        "Cl(-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Trace elements ": [
+        "Trace element"
+    ],
+    "Tryptose": [
+        "Tryptone"
+    ],
+    "pyruvate": [
+        "Pyruvate"
+    ],
+    "D-sorbitol": [
+        "L-mannitol"
+    ],
+    "Sheep Blood": [
+        "Sheep blood"
+    ],
+    "Bacto\u2122 Agar": [
+        "Agar"
+    ],
+    "Na-malate": [
+        "Na(+)",
+        "Malate"
+    ],
+    "NaMoO4": [
+        "Na(+)",
+        "MoO4(2-)"
+    ],
+    "Soluble starch": [
+        "Soluble starch"
+    ],
+    "Eosin Y": [
+        "Eosin",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "MgCx 6 H2O": [
+        "Mg(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "NaCO3": [
+        "Na(+)",
+        "HCO3(-)"
+    ],
+    "Calcium Carbonate": [
+        "HCO3(-)",
+        "Ca(2+)"
+    ],
+    "2-hydroxybiphenyl": [
+        "Diphenyl ether"
+    ],
+    "Defibrinated Sheep Blood": [
+        "Sheep blood"
+    ],
+    "Nutrient agar": [
+        "Nutrient agar"
+    ],
+    "N-acetylglucosamine": [
+        "Acetyl glucosamine"
+    ],
+    "(NH4)6 Mo7O24": [
+        "NH4(+)",
+        "Mo7O24(2-)"
+    ],
+    "Na-EDTA": [
+        "Na(+)",
+        "EDTA"
+    ],
+    "Co(NO3)2": [
+        "Co(2+)",
+        "NO3(-)",
+        "NO3(-)"
+    ],
+    "defibrinated blood": [
+        "Defibrinated Blood"
+    ],
+    "Soybean Flour": [
+        "Soybean Flour"
+    ],
+    "KB4O7\u00b710H2O": [
+        "K(+)",
+        "B4O7(-)"
+    ],
+    "Middlebrook 7H9 Broth Base": [
+        "Broth",
+        "Broth"
+    ],
+    "Casaminoacids": [
+        "Casamino acids"
+    ],
+    "Tween80": [
+        "Tween"
+    ],
+    "MgSO4*7H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CaCl2*2H2O": [
+        "Cl(-)",
+        "Cl(-)",
+        "Ca(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "(NH4)2HPO4": [
+        "NH4(+)",
+        "NH4(+)",
+        "PO4(3-)"
+    ],
+    "Trace element SL-10": [
+        "Trace element"
+    ],
+    "fluoranthene": [
+        "Pyrene"
+    ],
+    "Sodium oxalate": [
+        "Na(+)",
+        "Oxalate"
+    ],
+    "Na-oxalate": [
+        "Na(+)",
+        "Oxalate"
+    ],
+    "Calcium pantothenate": [
+        "Ca(2+)",
+        "Pantothenic acid"
+    ],
+    "D(+)-Biotin": [
+        "D-(+)-biotin"
+    ],
+    "Polypepton": [
+        "Peptone"
+    ],
+    "Nicotinamide": [
+        "E-pyridine-3-aldoxime"
+    ],
+    "PPLO broth": [
+        "PPLO broth"
+    ],
+    "Yeast extract % - M00263": [
+        "Yeast Extract"
+    ],
+    "Carbonate": [
+        "HCO3(-)"
+    ],
+    "Vitamins": [
+        "Vitamin Mix"
+    ],
+    "Xylan": [
+        "Xylan"
+    ],
+    "MgCl2*6 H2O": [
+        "Mg(2+)",
+        "Cl(-)",
+        "Cl(-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CaCl2*2 H2O": [
+        "Cl(-)",
+        "Cl(-)",
+        "Ca(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Trace mineral ": [
+        "Trace element"
+    ],
+    "Pancreatic digest of casein": [
+        "Casitone"
+    ],
+    "Trypticase Soy Agar": [
+        "Tryptone"
+    ],
+    "sheep blood": [
+        "Sheep blood"
+    ],
+    "bovine serum": [
+        "Bovine serum"
+    ],
+    "MRS broth": [
+        "MRS broth"
+    ],
+    "H2SeO3": [
+        "SeO3(2-)"
+    ],
+    "aluminum chloride": [
+        "Al(3+)",
+        "Cl(-)",
+        "Cl(-)",
+        "Cl(-)"
+    ],
+    "NiSO4": [
+        "SO4(2-)",
+        "Ni(2+)"
+    ],
+    "Trizma hydrochlorid": [
+        "Tris-hydrochloride"
+    ],
+    "Trizma hydrochloride": [
+        "Tris-hydrochloride"
+    ],
+    "Trace elements SL": [
+        "Trace element"
+    ],
+    "Na2S2O3 x 5H2O": [
+        "Na(+)",
+        "Na(+)",
+        "S2O3(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2S x 9H2O": [
+        "Na(+)",
+        "Na(+)",
+        "S(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Acetylacetone": [
+        "Acetyl glucosamine"
+    ],
+    "V-8 Juice": [
+        "V-8 Juice"
+    ],
+    "Cornsteep ": [
+        "Corn steep powder"
+    ],
+    "3-hydroxybutyrate": [
+        "3-hydroxybutyrate"
+    ],
+    "Na-butyrate": [
+        "Na(+)",
+        "Butyrate"
+    ],
+    "Na-aspartate": [
+        "Na(+)",
+        "Aspartic acid"
+    ],
+    "Na2MoO4 x 2H2O": [
+        "MoO4(2-)",
+        "Na(+)",
+        "Na(+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Pyruvic acid": [
+        "Pyruvate"
+    ],
+    "CaSO4": [
+        "Ca(2+)",
+        "SO4(2-)"
+    ],
+    "Peptone N\u00b03": [
+        "Peptone"
+    ],
+    "Neomycin Sulfate": [
+        "Neomycin sulfate"
+    ],
+    "Triple Sugar Iron": [
+        "Triple sugar",
+        "Fe(3+)"
+    ],
+    "FeCx 6 H2O": [
+        "Fe(3+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Tryptophan": [
+        "Cyclo(Gly-Phe)"
+    ],
+    "Ferrous sulphate": [
+        "Ferrous Sulphate"
+    ],
+    "sodium nitrate": [
+        "NO3(-)",
+        "Na(+)"
+    ],
+    "2,3-butanediol": [
+        "2,3-butanediol"
+    ],
+    "nutrient broth": [
+        "Broth"
+    ],
+    "Bromothymol blue": [
+        "Bromothymol blue"
+    ],
+    "CO": [
+        "Methanol"
+    ],
+    "Proteose tryptone": [
+        "Tryptone"
+    ],
+    "Proteose yeastolate": [
+        "Proteose yeastolate"
+    ],
+    "Rabbit serum": [
+        "Rabbit serum"
+    ],
+    "Gelatine": [
+        "Gelatin"
+    ],
+    "Casiton": [
+        "Casitone"
+    ],
+    "Soy flour, defatted": [
+        "Soybean Flour"
+    ],
+    "CaCl2\u00b72H2O": [
+        "Cl(-)",
+        "Cl(-)",
+        "Ca(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na-(L)-lactate": [
+        "Na(+)",
+        "Lactic acid"
+    ],
+    "Bacto-Tryptone": [
+        "Tryptone"
+    ],
+    "lactose": [
+        "Trehalose"
+    ],
+    "Starch, maize": [
+        "Maize starch"
+    ],
+    "Na-ascorbate": [
+        "Na(+)",
+        "Ascorbic acid"
+    ],
+    "Artificial seawater": [
+        "Seawater"
+    ],
+    "Glutathione": [
+        "Glutathione"
+    ],
+    "Bacto-Peptone": [
+        "Peptone"
+    ],
+    "Betaine": [
+        "4-methylmorpholine N-Oxide"
+    ],
+    "L-Alanine": [
+        "1-nitropropane"
+    ],
+    "Na NO3": [
+        "Na(+)",
+        "NO3(-)"
+    ],
+    "K2SO4": [
+        "SO4(2-)",
+        "K(+)",
+        "K(+)"
+    ],
+    "D(+)-Glucose": [
+        "D(+)-Glucose"
+    ],
+    "GAM Broth modified ": [
+        "GAM Broth",
+        "GAM Broth"
+    ],
+    "sodium ferulate": [
+        "Ferulate",
+        "Na(+)"
+    ],
+    "Na2SeO4": [
+        "Na(+)",
+        "Na(+)",
+        "SeO4(2-)"
+    ],
+    "Sea Salts": [
+        "Sea salts"
+    ],
+    "NaNO3": [
+        "NO3(-)",
+        "Na(+)"
+    ],
+    "Trace elements SL-4": [
+        "Trace element"
+    ],
+    "Sodium thiosulfate": [
+        "SO3(2-)",
+        "SO3(2-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "Sodium sulfide": [
+        "Na(+)",
+        "S(2-)"
+    ],
+    "L-cysteine": [
+        "Cysteine"
+    ],
+    "DTT": [
+        "2-hydroxyethyldisulfide"
+    ],
+    "Manganous Chloride": [
+        "Manganous Chloride"
+    ],
+    "Zinc Sulfate": [
+        "SO4(2-)",
+        "Zn(2+)"
+    ],
+    "Polysorbate 80": [
+        "Polysorbate"
+    ],
+    "Charcoal ": [
+        "Charcoal"
+    ],
+    "Na-Ascorbate ": [
+        "Na(+)",
+        "Ascorbic acid"
+    ],
+    "Difco\u2122 Bacto\u2122 Horse Blood": [
+        "Horse blood"
+    ],
+    "VOSO4 5H2O": [
+        "VO(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2-glutamate": [
+        "Na(+)",
+        "Na(+)",
+        "Glutamate"
+    ],
+    "Na3-citrate": [
+        "Na(+)",
+        "Na(+)",
+        "Na(+)",
+        "Citrate"
+    ],
+    "Glutamic acid": [
+        "N-acetyl-L-serine"
+    ],
+    "Na2SO3": [
+        "Na(+)",
+        "Na(+)",
+        "SO3(2-)"
+    ],
+    "Ammonium Sulfate": [
+        "NH4(+)",
+        "NH4(+)",
+        "SO4(2-)"
+    ],
+    "Metalls 44: ml/l": [
+        "Metal mixture"
+    ],
+    "Ketoglutaric acid": [
+        "Ketoglutaric acid"
+    ],
+    "Filtered aged sea water": [
+        "Seawater"
+    ],
+    "sodium sulfide": [
+        "Na(+)",
+        "S(2-)"
+    ],
+    "MoO3": [
+        "Mo(2+)",
+        "Ozone"
+    ],
+    "Yeastolate": [
+        "Yeastolate"
+    ],
+    "Starch, soluble": [
+        "Starch"
+    ],
+    "Na3Citrat": [
+        "Na(+)",
+        "Na(+)",
+        "Na(+)",
+        "Citrate"
+    ],
+    "Potato": [
+        "Potato"
+    ],
+    "Carrot": [
+        "Carrot"
+    ],
+    "L malic acid": [
+        "Malic Acid"
+    ],
+    "Ferric citrate": [
+        "Fe(3+)",
+        "Citrate"
+    ],
+    "Thiamin": [
+        "Thiamine"
+    ],
+    "Malic acid": [
+        "Malic Acid"
+    ],
+    "NH4-oxalate": [
+        "NH4(+)",
+        "Oxalate"
+    ],
+    "Ammonium oxalate": [
+        "NH4(+)",
+        "C2O4(2-)"
+    ],
+    "Indigocarmine": [
+        "Indigocarmine"
+    ],
+    "Na2MoO4 x 2 H2O": [
+        "MoO4(2-)",
+        "Na(+)",
+        "Na(+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2EDTA": [
+        "Na(+)",
+        "Na(+)",
+        "EDTA"
+    ],
+    "Boric Acid": [
+        "BH3O3"
+    ],
+    "Sodium Nitrate": [
+        "NO3(-)",
+        "Na(+)"
+    ],
+    "Hutners basal salts": [
+        "Basal salts"
+    ],
+    "Staley\u2019s vitamin ": [
+        "Vitamin Mix"
+    ],
+    "Agar-agar": [
+        "Agar"
+    ],
+    "Fructose": [
+        "D-Glucose"
+    ],
+    "Na-glycerophosphate": [
+        "Na(+)",
+        "Glycerophosphate"
+    ],
+    "Na-Acetate": [
+        "Na(+)",
+        "Acetate"
+    ],
+    "Trace element SL -4": [
+        "Trace element"
+    ],
+    "Agar agar": [
+        "Agar"
+    ],
+    "Yeast extract %": [
+        "Yeast Extract"
+    ],
+    "% Phenol red": [
+        "Phenol red"
+    ],
+    "Na-caproate": [
+        "Na(+)",
+        "Hexanoate"
+    ],
+    "3-Hydroxybenzoate": [
+        "Salicylate"
+    ],
+    "Tap water": [
+        "H2O"
+    ],
+    "Hematin": [
+        "Ferriheme hydroxide"
+    ],
+    "Defibrinated Horse Blood": [
+        "Horse blood"
+    ],
+    "Standard Mueller Hinton Agar base": [
+        "Mueller Hinton agar"
+    ],
+    "Allantoin": [
+        "Allantoin"
+    ],
+    "MJ synthetic seawater": [
+        "Seawater"
+    ],
+    "C6H9NO6": [
+        "Isosorbide mononitrate"
+    ],
+    "Eyolk": [
+        "Eyolk"
+    ],
+    "Na2S2O3\u00b75H2O": [
+        "Na(+)",
+        "Na(+)",
+        "S2O3(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "3-chloroacrylic acid": [
+        "3-Chloroacrylic acid"
+    ],
+    "Filtered, aged sea water": [
+        "Seawater"
+    ],
+    "DL-histidine": [
+        "Bacimethrin pyrophosphate"
+    ],
+    "Ammonium Sulphate": [
+        "SO4(2-)",
+        "NH4(+)",
+        "NH4(+)"
+    ],
+    "Histidine": [
+        "Bacimethrin pyrophosphate"
+    ],
+    "Cheese whey": [
+        "Cheese whey"
+    ],
+    "Na3-citrate\u00b72H2O": [
+        "Na(+)",
+        "Na(+)",
+        "Na(+)",
+        "Citrate",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2-EDTA\u00b72H2O": [
+        "Na(+)",
+        "Na(+)",
+        "EDTA",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "K2HPO4\u00b73H2O": [
+        "K(+)",
+        "K(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Fe-NH4-citrate": [
+        "Fe(3+)",
+        "NH4(+)",
+        "Citrate"
+    ],
+    "Distilled water to adjust volume to mL, then autoclave. After cooling, add the following filter sterilized components to complete the medium": [
+        "H2O"
+    ],
+    "Na-L-Lactate": [
+        "Na(+)",
+        "Lactic acid"
+    ],
+    "Na-formiate": [
+        "Na(+)",
+        "Formate"
+    ],
+    "MnCl2\u00b74H2O": [
+        "Cl(-)",
+        "Cl(-)",
+        "Mn(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "ZnSO4\u00b77H2O": [
+        "SO4(2-)",
+        "Zn(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "PIPES": [
+        "PIPES"
+    ],
+    "Trypicase peptone": [
+        "Tryptone"
+    ],
+    "MgSO4 * 7 H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "CaC* 2 H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Sodium citrate": [
+        "Citrate",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "Nutrient Broth": [
+        "Broth"
+    ],
+    "Mg(Succinate)2": [
+        "Mg(2+)",
+        "Fumaric acid"
+    ],
+    "Yeast Extract or Casamino Acids": [
+        "Yeast Extract"
+    ],
+    "crotonic acid": [
+        "Methacrylate"
+    ],
+    "sodium dithionite": [
+        "SO4(2-)",
+        "SO4(2-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "Trypticase Soy Broth": [
+        "Tryptone Soy Broth"
+    ],
+    "Trace element SLA": [
+        "Trace element"
+    ],
+    "Deionized Water": [
+        "H2O"
+    ],
+    "Sodium DL-lactate": [
+        "Lactic acid",
+        "Na(+)"
+    ],
+    "Urea ": [
+        "CN(-)",
+        "H(+)",
+        "H(+)",
+        "H(+)",
+        "H(+)"
+    ],
+    "Na-phosphate buffer": [
+        "Na-phosphate buffer"
+    ],
+    "MgSO4 \u00b7 6H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CaC\u00b7 2H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2MoO4 \u00b7 2H2O": [
+        "MoO4(2-)",
+        "Na(+)",
+        "Na(+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "EDTA disodium salt": [
+        "EDTA",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "CuSO4 \u00b7 5H2O": [
+        "Cu(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "FeSO4 \u00b7 7H2O": [
+        "Fe(3+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "ZnSO4 \u00b7 7H2O": [
+        "SO4(2-)",
+        "Zn(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CoC\u00b7 6H2O": [
+        "Dimethyl ether",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "MnC\u00b7 4H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "NiC\u00b7 6H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2HPO4 \u00b7 2H2O": [
+        "Na(+)",
+        "Na(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Calcium sulphate ": [
+        "Ca(2+)",
+        "SO4(2-)"
+    ],
+    "iron ": [
+        "Fe(3+)"
+    ],
+    "MOPS": [
+        "MOPS buffer"
+    ],
+    "Infusion Broth": [
+        "Broth"
+    ],
+    "Potassium phosphate": [
+        "PO4(3-)",
+        "PO4(3-)"
+    ],
+    "Agar ": [
+        "Agar",
+        "Agar"
+    ],
+    "Difco Bacto Marine Agar": [
+        "Difco Bacto Marine Agar"
+    ],
+    "Tryptic Soy Broth": [
+        "Tryptone Soy Broth"
+    ],
+    "3-Sea Salts": [
+        "Sea salts"
+    ],
+    "Trypton": [
+        "Tryptone"
+    ],
+    "Soybean Oil": [
+        "Soybean Oil"
+    ],
+    "Casein Pepper": [
+        "Casitone"
+    ],
+    "Fe-NH4EDTA": [
+        "Fe(3+)",
+        "NH4(+)",
+        "EDTA"
+    ],
+    "Sea sand": [
+        "Sea sand"
+    ],
+    "Polypeptone": [
+        "Peptone"
+    ],
+    "Trypone": [
+        "Tryptone"
+    ],
+    "Columbiagar": [
+        "Columbia Agar"
+    ],
+    "KHPO4": [
+        "K(+)",
+        "PO4(3-)"
+    ],
+    "serum": [
+        "Serum"
+    ],
+    "NaHPO4": [
+        "Na(+)",
+        "PO4(3-)"
+    ],
+    "NaHSeO3": [
+        "Na(+)",
+        "H(+)",
+        "SeO3(2-)"
+    ],
+    "Ammonium Chloride": [
+        "NH4(+)",
+        "Cl(-)"
+    ],
+    "Purified Agar": [
+        "Agar"
+    ],
+    "Purified agar": [
+        "Agar"
+    ],
+    "Na-glycolate": [
+        "Na(+)",
+        "Glycolate"
+    ],
+    "Potassium aspartate": [
+        "Aspartic acid"
+    ],
+    "Manganese Sulfate": [
+        "SO4(2-)",
+        "Mn(2+)"
+    ],
+    "Potassium Glutamate": [
+        "Glutamate"
+    ],
+    "N-Acetyl Glucosamine": [
+        "Acetyl glucosamine"
+    ],
+    "Diammonium Citrate": [
+        "Citrate",
+        "NH4(+)",
+        "NH4(+)"
+    ],
+    "Brain Extract": [
+        "Brain Extract"
+    ],
+    "Heart Extract": [
+        "Heart Extract"
+    ],
+    "K-acetate": [
+        "Acetate"
+    ],
+    "Na-Resazurin": [
+        "Na(+)",
+        "Resazurin"
+    ],
+    "Rabbit blood": [
+        "Rabbit Blood"
+    ],
+    "Trace salt ": [
+        "Trace salt"
+    ],
+    "Rumen fluid, clarified": [
+        "Rumen fluid"
+    ],
+    "Vitamin K1 ": [
+        "Vitamin K1"
+    ],
+    "Ammonium acetate": [
+        "Acetate"
+    ],
+    "Chitosan": [
+        "Chitosan"
+    ],
+    "Soytone peptone": [
+        "Soy peptone"
+    ],
+    "citrate": [
+        "Citrate"
+    ],
+    "Ammonium iron": [
+        "NH4(+)",
+        "Fe(3+)"
+    ],
+    "Meat Extract": [
+        "Meat extract"
+    ],
+    "Fe3Cl": [
+        "Fe(3+)",
+        "Fe(3+)",
+        "Fe(3+)",
+        "Cl(-)"
+    ],
+    "CaCl2.2H2O": [
+        "Ca(2+)",
+        "Cl(-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2S2O3.5H2O": [
+        "Na(+)",
+        "Na(+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Sodium Lactate": [
+        "Na(+)",
+        "Lactic acid"
+    ],
+    "L(+)-Tartaric acid": [
+        "Tartaric acid"
+    ],
+    "Quinic acid": [
+        "Quinate"
+    ],
+    "Todd Hewitt Broth": [
+        "Todd Hewitt Broth"
+    ],
+    "Todd hewitt broth": [
+        "Todd Hewitt Broth"
+    ],
+    "Casein Hydrolysate": [
+        "Casein hydrolysate"
+    ],
+    "SIM broth": [
+        "SIM broth"
+    ],
+    "Cysteine": [
+        "Cysteine"
+    ],
+    "Inositol": [
+        "L-Inositol"
+    ],
+    "Sucrose or Glucose": [
+        "Trehalose",
+        "Deaminated-Amine-Donors",
+        "D-Glucose"
+    ],
+    "ManRogosa Sharp agar": [
+        "Man Rogosa Sharp agar"
+    ],
+    "Sodium Sulfite": [
+        "SO3(2-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "Cysteine HCl.H2O": [
+        "Cysteine",
+        "H(+)",
+        "Cl(-)",
+        "H2O",
+        "H2O"
+    ],
+    "Agar Noble": [
+        "Agar"
+    ],
+    "Inulin": [
+        "Type-6-H-Antigen"
+    ],
+    "KHCO3": [
+        "K(+)",
+        "HCO3(-)"
+    ],
+    "EYolk-Dextrose": [
+        "Eyolk"
+    ],
+    "Ni(NH4)2(SO4)2": [
+        "Ni(2+)"
+    ],
+    "Oats": [
+        "Oats"
+    ],
+    "atrazine": [
+        "Atrazine"
+    ],
+    "Na2HPO4 x H2O": [
+        "Na(+)",
+        "Na(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O",
+        "Na(+)",
+        "Na(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O"
+    ],
+    "Bacto Heart Infusion Broth": [
+        "Broth"
+    ],
+    "Defibrinated blood": [
+        "Defibrinated Blood"
+    ],
+    "MgSO4 \u00b7 4H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Vitamin mixture": [
+        "Vitamin Mix"
+    ],
+    "Ascorbate ": [
+        "Ascorbic acid"
+    ],
+    "Benzoate ": [
+        "Benzoate"
+    ],
+    "Ferric Citrate": [
+        "Fe(3+)",
+        "Citrate"
+    ],
+    "FeSO4 x 7H2O": [
+        "Fe(3+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CoCx 6H2O": [
+        "Co(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "NiCx 2H2O": [
+        "Ni(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "MgSO4": [
+        "Mg(2+)",
+        "SO4(2-)"
+    ],
+    "Yeast Nitrogen Base": [
+        "Yeast Extract"
+    ],
+    "Bile salts": [
+        "Bile salts"
+    ],
+    "Crystal Violet": [
+        "Gentian Violet"
+    ],
+    "Triple Sugar Iron Agar": [
+        "Triple Sugar Iron Agar"
+    ],
+    "Horse Serum": [
+        "Horse Serum"
+    ],
+    "phenol-": [
+        "Arene oxide"
+    ],
+    "CaCx 6H2O": [
+        "Ca(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Soybean Casein": [
+        "Soytone"
+    ],
+    "Filtered tomato Juice": [
+        "Tomato juice"
+    ],
+    "Sigma Sea salts": [
+        "Sea salts"
+    ],
+    "NaH2PO4 x H2O": [
+        "H2PO4(-)",
+        "Na(+)",
+        "H2O",
+        "H2O"
+    ],
+    "BD Bacto Peptone": [
+        "Peptone"
+    ],
+    "Hexadecane": [
+        "Hexadecane"
+    ],
+    "Tetrachloroethene": [
+        "C2Cl4"
+    ],
+    "IMDM": [
+        "IMDM"
+    ],
+    "Fetal Bovine Serum": [
+        "Bovine serum"
+    ],
+    "Aminoacids": [
+        "Amine"
+    ],
+    "Peptic Digest of Animal Tissue": [
+        "Peptic digest of animal tissue"
+    ],
+    "Na-sesquicarbonate": [
+        "Na(+)",
+        "Sesquicarbonate"
+    ],
+    "K2S4O6": [
+        "K(+)",
+        "K(+)",
+        "S4O6"
+    ],
+    "Potassium bromide": [
+        "K(+)",
+        "Br(-)"
+    ],
+    "CAPS buffer": [
+        "CAPS buffer"
+    ],
+    "KSCN": [
+        "CN(-)",
+        "S(2-)",
+        "K(+)"
+    ],
+    "Lactose": [
+        "Trehalose"
+    ],
+    "Cystine-HCl": [
+        "D-cystine",
+        "Cl(-)"
+    ],
+    "MgSO4\u20227H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "MnSO4\u2022H2O": [
+        "SO4(2-)",
+        "Mn(2+)",
+        "H2O",
+        "H2O"
+    ],
+    "FeSO4\u20227H2O": [
+        "Fe(3+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "D-Sorbitol": [
+        "L-mannitol"
+    ],
+    "Ferric Phosphate": [
+        "Ferric Phosphate"
+    ],
+    "Filtered Aged Seawater": [
+        "Seawater"
+    ],
+    "Isobutyroamide": [
+        "Isobutyroamide"
+    ],
+    "Na-propionate": [
+        "Na(+)",
+        "Propionate"
+    ],
+    "Chelated iron ": [
+        "Fe(3+)"
+    ],
+    "MnSO4\u00b7H2O": [
+        "SO4(2-)",
+        "Mn(2+)",
+        "H2O",
+        "H2O"
+    ],
+    "Na2Fumarate": [
+        "Na(+)",
+        "Na(+)",
+        "Fumaric acid"
+    ],
+    "Phenol Red": [
+        "Phenol red",
+        "Phenol red"
+    ],
+    "Cysteine -HCl": [
+        "Cysteine",
+        "Cl(-)"
+    ],
+    "FeC6H2O": [
+        "Fe(3+)",
+        "C6H2O"
+    ],
+    "MnC4H2O": [
+        "Mn(2+)"
+    ],
+    "Na2WO4 2H2O": [
+        "Na(+)",
+        "Na(+)",
+        "WO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CuC2H2O": [
+        "Cu(2+)",
+        "Ethyno"
+    ],
+    "CoC6H2O": [
+        "Co(2+)",
+        "C6H2O"
+    ],
+    "AlCl3": [
+        "Al(3+)",
+        "Cl(-)",
+        "Cl(-)",
+        "Cl(-)"
+    ],
+    "Na2MoO4 2H2O": [
+        "MoO4(2-)",
+        "Na(+)",
+        "Na(+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Pyridoxine -HCl": [
+        "Pyridoxol",
+        "Cl(-)"
+    ],
+    "Nicotinic acid": [
+        "Nitrobenzol"
+    ],
+    "p-Aminobenzoic acid": [
+        "3-aminobenzoate"
+    ],
+    "Na-gluconate": [
+        "Na(+)"
+    ],
+    "Mann Rogosa Sharp broth": [
+        "Broth"
+    ],
+    "Trypto casein soy broth": [
+        "Tryptone Soy Broth"
+    ],
+    "TRIS x HCl": [
+        "Tris maleate",
+        "Cl(-)"
+    ],
+    "MgSO4.7H2O": [
+        "Mg(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "FeSO4.7H2O": [
+        "Fe(3+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Sodium Thiocyanate": [
+        "Na(+)",
+        "SCN(-)"
+    ],
+    "Glacial acetic acid": [
+        "Acetate"
+    ],
+    "Fe(III)-EDTA": [
+        "Fe(3+)",
+        "EDTA"
+    ],
+    "CaC\u2022 2H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Tris-HCl": [
+        "Tris-hydrochloride"
+    ],
+    "Trace Elements ": [
+        "Trace element"
+    ],
+    "Sodium sulphate": [
+        "Na(+)",
+        "SO4(2-)"
+    ],
+    "Sodium lactate": [
+        "Na(+)",
+        "Lactic acid"
+    ],
+    "alginic acid": [
+        "ALGINATE"
+    ],
+    "Fe(NH3)citrate": [
+        "Fe(3+)",
+        "NH4(+)",
+        "Citrate"
+    ],
+    "Bromocresol purple": [
+        "Bromocresol purple"
+    ],
+    "skim milk": [
+        "Skim milk"
+    ],
+    "NeoPeptone": [
+        "Neopeptone"
+    ],
+    "Fe-citrate": [
+        "Fe(3+)",
+        "Citrate"
+    ],
+    "CoCx 6 H2O": [
+        "Co(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "H3PO4": [
+        "PO4(3-)"
+    ],
+    "Cellubiose": [
+        "Cellubiose"
+    ],
+    "xylose": [
+        "Xylose"
+    ],
+    "Na-Acetat": [
+        "Na(+)",
+        "Acetate"
+    ],
+    "Natural sea water": [
+        "Seawater"
+    ],
+    "Na2S 9H2O": [
+        "Na(+)",
+        "Na(+)",
+        "S(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Vitamin V7": [
+        "Vitamin Mix"
+    ],
+    "H medium": [
+        "H(+)"
+    ],
+    "Sodium ascorbate": [
+        "Na(+)",
+        "Ascorbic acid"
+    ],
+    "Aminoacids mixture": [
+        "Amine"
+    ],
+    "RPMI 1640": [
+        "RPMI"
+    ],
+    "Penicillin": [
+        "Penicillin"
+    ],
+    "Streptomycin": [
+        "Streptomycin"
+    ],
+    "Middlebrook 7H9 broth": [
+        "Broth"
+    ],
+    "Mycobactine": [
+        "Mycobactine"
+    ],
+    "broth": [
+        "Broth"
+    ],
+    "Mycobactine J": [
+        "Mycobactine"
+    ],
+    "Charcoal-filtered, natural seawater": [
+        "Seawater"
+    ],
+    "K2PO4": [
+        "K(+)",
+        "K(+)",
+        "PO4(3-)"
+    ],
+    "Na-acetate x 3 H2O": [
+        "Na(+)",
+        "Acetate",
+        "H2O",
+        "H2O"
+    ],
+    "Aspargine": [
+        "Aspargine"
+    ],
+    "NiCx 6 H2O ": [
+        "Ni(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2-dithionite": [
+        "Na(+)",
+        "Na(+)",
+        "S2O4(2-)"
+    ],
+    "3-methylbutyric acid": [
+        "3-Methylbutyric acid"
+    ],
+    "Caproic acid": [
+        "Caproic acid"
+    ],
+    "Sea salt": [
+        "Sea salts"
+    ],
+    "Disodium fumarate": [
+        "Disodium fumarate"
+    ],
+    "Ni2SO4": [
+        "Ni(2+)",
+        "Ni(2+)",
+        "SO4(2-)"
+    ],
+    "Na2O4W": [
+        "Na(+)",
+        "Na(+)",
+        "WO4(2-)"
+    ],
+    "CuCl": [
+        "Cu(2+)",
+        "Cl(-)"
+    ],
+    "MnSO4 x 5 H2O": [
+        "SO4(2-)",
+        "Mn(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CaCx 7 H2O": [
+        "Ca(2+)",
+        "H2O",
+        "H2O"
+    ],
+    "Sodium thioglycolate": [
+        "Na(+)",
+        "Thioglycolic"
+    ],
+    "Tryptone Soya Agar": [
+        "Tryptone soy agar"
+    ],
+    "Magnesium Sulfate": [
+        "SO4(2-)",
+        "Mg(2+)"
+    ],
+    "MgSO4 . 7H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CaC. 2H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "pentachlorophenol": [
+        "Pentachlorophenolate"
+    ],
+    "Seawater": [
+        "Seawater"
+    ],
+    "Bacto peptone": [
+        "Tryptone"
+    ],
+    "Bacto yeast extract": [
+        "Yeast Extract"
+    ],
+    "Na acetate": [
+        "Na(+)",
+        "Acetate"
+    ],
+    "Fe-EDTA complex": [
+        "Fe(3+)",
+        "EDTA"
+    ],
+    "NaEDTA": [
+        "Na(+)",
+        "EDTA"
+    ],
+    "Micronutrient ": [
+        "Micronutrient",
+        "Micronutrient"
+    ],
+    "Na2WO4 x 2 H2O": [
+        "Na(+)",
+        "Na(+)",
+        "WO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "(NH4)6Mo7Ox 4 H2O": [
+        "H2O",
+        "H2O"
+    ],
+    "KJ": [
+        "K(+)"
+    ],
+    "Cd(NO3)2 x 4 H2O": [
+        "Cd(2+)",
+        "NO3(-)",
+        "NO3(-)",
+        "H2O",
+        "H2O"
+    ],
+    "Co(NO3)2 x 6 H2O": [
+        "Co(2+)",
+        "NO3(-)",
+        "NO3(-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Cr(NO3)3 x 7 H2O": [
+        "Cr(3+)",
+        "NO3(-)",
+        "NO3(-)",
+        "NO3(-)",
+        "H2O",
+        "H2O"
+    ],
+    "VOSO4 x 2 H2O": [
+        "VO(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Al2(SO4)3K2SO4 x H2O": [
+        "Al(3+)",
+        "Al(3+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "Potato dextrose broth": [
+        "Potato",
+        "Potato"
+    ],
+    "Peat extract": [
+        "Peat extract"
+    ],
+    "Potassium phosphate buffer": [
+        "Potassium phosphate buffer"
+    ],
+    "Hutner's basal salts": [
+        "Basal salts"
+    ],
+    "Tris/HCl at7.5": [
+        "Tris maleate",
+        "Cl(-)"
+    ],
+    "Gelrite": [
+        "Gelrite"
+    ],
+    "Biomaris Seawater": [
+        "Seawater"
+    ],
+    "Na2HPO4 x 2H2O": [
+        "Na(+)",
+        "Na(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Vitamin No.6": [
+        "Vitamin Mix",
+        "NO3(-)"
+    ],
+    "Vitamin B ": [
+        "Vitamin Mix"
+    ],
+    "Lotus Extract": [
+        "Lotus Extract"
+    ],
+    "Na2S": [
+        "Na(+)",
+        "Na(+)",
+        "S(2-)"
+    ],
+    "Chitin": [
+        "CHITIN"
+    ],
+    "Acidic trace metals": [
+        "Trace element"
+    ],
+    "Arabinose": [
+        "Xylose"
+    ],
+    "rabbit serum": [
+        "Rabbit serum"
+    ],
+    "Ammonium carbonate": [
+        "NH4(+)",
+        "HCO3(-)"
+    ],
+    "DL-Tryptophan": [
+        "Tryptophan"
+    ],
+    "MEM-Medium": [
+        "MEM-Medium"
+    ],
+    "EB stock ": [
+        "EB stock"
+    ],
+    "Colistin": [
+        "Colistin"
+    ],
+    "Nalidixic Acid": [
+        "IAA-Gly"
+    ],
+    "Bromocresol green": [
+        "Bromocresol green"
+    ],
+    "Na3-citrate x 2H2O": [
+        "Na(+)",
+        "Na(+)",
+        "Na(+)",
+        "Citrate",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2-EDTA x 2H2O": [
+        "Na(+)",
+        "Na(+)",
+        "EDTA",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "BG11-Mix": [
+        "BG11-Mix"
+    ],
+    "Trace metal mix": [
+        "Trace element"
+    ],
+    "CuCx 5 H2O": [
+        "Cu(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Trimethylamine-HCl": [
+        "1-aminopropane",
+        "Cl(-)"
+    ],
+    "N H2SO4": [
+        "SO4(2-)"
+    ],
+    "Trisodium citrate": [
+        "Citrate",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "Ammonium citrate": [
+        "NH4(+)",
+        "NH4(+)",
+        "Citrate"
+    ],
+    "Sodium resazurin ": [
+        "Na(+)",
+        "Resazurin"
+    ],
+    "L-Leucine": [
+        "L-isoleucine"
+    ],
+    "Pantothenate": [
+        "PAN"
+    ],
+    "L-Isoleucine": [
+        "L-isoleucine"
+    ],
+    "Glycyl-glycine": [
+        "L-Asparagine"
+    ],
+    "Cyanocobalamine": [
+        "Tryptone Soy Broth"
+    ],
+    "FeSO4 x 6 H2O": [
+        "Fe(3+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "ZnSO4 x 7H2O": [
+        "SO4(2-)",
+        "Zn(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CuCx 2 H2O": [
+        "Cu(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "NiCx 6H2O": [
+        "Ni(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Pyridoxine-HCl": [
+        "Cl(-)",
+        "H(+)",
+        "Pyridoxine"
+    ],
+    "DL-Pantothenic acid": [
+        "Pantothenic acid"
+    ],
+    "Trace Salt": [
+        "Trace salt"
+    ],
+    "Casein Peptone No. 3": [
+        "Casitone"
+    ],
+    "Cysteine HCl H2O": [
+        "Cysteine",
+        "H(+)",
+        "Cl(-)",
+        "H2O",
+        "H2O"
+    ],
+    "K2HPO4 x 3H2O": [
+        "K(+)",
+        "K(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "HEPES buffer": [
+        "HEPES buffer"
+    ],
+    "H3BO3 ": [
+        "BH3O3"
+    ],
+    "NaF ": [
+        "Na(+)",
+        "F(-)"
+    ],
+    "K2HPO4 ": [
+        "K(+)",
+        "K(+)",
+        "PO4(3-)"
+    ],
+    "Trace elements SL-10": [
+        "Trace element"
+    ],
+    "Lab lemco": [
+        "Lab-Lemco Beef Extract"
+    ],
+    "Ferric ammonium": [
+        "Ferric ammonium"
+    ],
+    "Trace element SL-6": [
+        "Trace element"
+    ],
+    "FeSO4 x 7H2O ": [
+        "Fe(3+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "DL-aspartic acid": [
+        "Aspartic acid"
+    ],
+    "L-glutamine": [
+        "L-isoglutamine"
+    ],
+    "L-proline": [
+        "L-Proline"
+    ],
+    "\u03b1-ketoglutaric acid": [
+        "Ketoglutaric acid"
+    ],
+    "Vitamin Stock ": [
+        "Vitamin Mix"
+    ],
+    "Demineralized water": [
+        "H2O"
+    ],
+    "Sterile demineralized water": [
+        "H2O"
+    ],
+    "Tryptose phosphate broth": [
+        "Tryptose Phosphate Broth"
+    ],
+    "FBS": [
+        "FBS"
+    ],
+    "Vitamin Stock": [
+        "Vitamin Mix"
+    ],
+    "Sodium carbonate ": [
+        "HCO3(-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "CaCl2x2H2O": [
+        "Ca(2+)",
+        "Cl(-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "MgSO4x7H2O": [
+        "Mg(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "MgCl2x6H2O": [
+        "Mg(2+)",
+        "Cl(-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Autolysed Yeast": [
+        "Autolysed Yeast"
+    ],
+    "Sodium bromide": [
+        "Na(+)",
+        "Br(-)"
+    ],
+    "Acetate": [
+        "Acetate"
+    ],
+    "Taurine": [
+        "Taurine"
+    ],
+    "sodium glutamate": [
+        "Glutamate"
+    ],
+    "Litmus Milk": [
+        "Litmus Milk"
+    ],
+    "Difco\u2122 Starch": [
+        "Starch"
+    ],
+    "Na2HPO4 \u00b7 12H2O": [
+        "Na(+)",
+        "Na(+)",
+        "PO4(3-)"
+    ],
+    "MgSO4 \u00b7 7H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "FeC\u00b7 6H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "MnSO4 \u00b7 5H2O": [
+        "SO4(2-)",
+        "Mn(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2S2O3 \u00b7 5H2O": [
+        "Na(+)",
+        "Na(+)",
+        "S2O3(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "L-tartarate": [
+        "Tartaric acid"
+    ],
+    "Niacinamide": [
+        "E-pyridine-3-aldoxime"
+    ],
+    "Choline chloride": [
+        "Choline chloride"
+    ],
+    "Myo-inositol": [
+        "L-Inositol"
+    ],
+    "Na pyruvate": [
+        "Na(+)",
+        "Pyruvate"
+    ],
+    "Sodium resazurin": [
+        "Na(+)",
+        "Resazurin"
+    ],
+    "Wolin's vitamin ": [
+        "Vitamin Mix"
+    ],
+    "L-Cysteine HCl \u22c5 H2O": [
+        "Cysteine",
+        "H(+)",
+        "Cl(-)",
+        "H2O",
+        "H2O"
+    ],
+    "FeSO4 7H2O": [
+        "Fe(3+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CoSO4 7H2O": [
+        "Co(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "ZnSO4 7H2O": [
+        "SO4(2-)",
+        "Zn(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CuSO4 5H2O": [
+        "Cu(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "AlK(SO4)2 12H2O": [
+        "Al(3+)",
+        "K(+)",
+        "SO4(2-)",
+        "SO4(2-)"
+    ],
+    "NiC6H2O": [
+        "Ni(2+)",
+        "C6H2O"
+    ],
+    "Na2SeO3 5H2O": [
+        "SeO3(2-)",
+        "Na(+)",
+        "Na(+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Marine Agar": [
+        "Marine agar"
+    ],
+    "Na2-DL-malate": [
+        "Na(+)",
+        "Na(+)",
+        "Malate"
+    ],
+    "Sodium Citrate": [
+        "Citrate",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "Trizma base": [
+        "Trizma base"
+    ],
+    "Tri-sodium citrate": [
+        "Citrate",
+        "Na(+)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "Nicotinic acid amide": [
+        "E-pyridine-3-aldoxime"
+    ],
+    "CaSO4 x 2 H2O": [
+        "Ca(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2HPO4 x 2 H2O": [
+        "Na(+)",
+        "Na(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Nitsch Element ": [
+        "Ni(2+)"
+    ],
+    "D,L-Dithiothreitol": [
+        "D,L-Dithiothreitol"
+    ],
+    "Na-acetate x 3H2O": [
+        "Na(+)",
+        "Acetate",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Sea water*": [
+        "Seawater"
+    ],
+    "Na-DL-lactate": [
+        "Na(+)",
+        "Lactic acid"
+    ],
+    "Na-crotonate": [
+        "Na(+)"
+    ],
+    "L-Lysine x HCl": [
+        "Lysine",
+        "Cl(-)"
+    ],
+    "Maltose monohydrate": [
+        "Maltose monohydrate"
+    ],
+    "Na glutamate": [
+        "Na(+)",
+        "Glutamate"
+    ],
+    "Na2CO3 ": [
+        "HCO3(-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "Fish Peptone": [
+        "Fish Peptone"
+    ],
+    "Acesulfame potassium": [
+        "Acesulfame potassium"
+    ],
+    "TMN-FH Medium": [
+        "TMN-FH Medium"
+    ],
+    "Sodium pyruvate ": [
+        "Pyruvate",
+        "Na(+)"
+    ],
+    "Concentrated salt water": [
+        "Salt water"
+    ],
+    "Na-L-lactate": [
+        "Na(+)",
+        "Lactic acid"
+    ],
+    "Carbon dioxide": [
+        "CO2",
+        "CO2"
+    ],
+    "NaOH 1 N": [
+        "OH(-)",
+        "Na(+)"
+    ],
+    "Casitone peptone": [
+        "Casitone"
+    ],
+    "Horse serum, inactivated": [
+        "Horse Serum"
+    ],
+    "Fatty acids mixture": [
+        "Fatty acid mix"
+    ],
+    "Na2S2O3": [
+        "Na(+)",
+        "Na(+)",
+        "S2O3(2-)"
+    ],
+    "Sodium malate": [
+        "Na(+)",
+        "Malate"
+    ],
+    "L-Cysteine-HCl\u00b7H2O": [
+        "Cysteine",
+        "Cysteine",
+        "H(+)",
+        "Cl(-)",
+        "H2O",
+        "H2O"
+    ],
+    "KH2PO4 and K2HPO4": [
+        "K(+)",
+        "PO4(3-)",
+        "K(+)",
+        "K(+)",
+        "PO4(3-)"
+    ],
+    "L-aspartic acid": [
+        "2-hydroxysuccinamate"
+    ],
+    "NaOH": [
+        "OH(-)",
+        "Na(+)"
+    ],
+    "Tryptose Phosphate Broth": [
+        "Tryptose Phosphate Broth"
+    ],
+    "Na-bicarbonate": [
+        "Na(+)",
+        "HCO3(-)"
+    ],
+    "(NH4)Cl": [
+        "NH4(+)",
+        "Cl(-)"
+    ],
+    "Na2HPO4 x 7H2O": [
+        "Na(+)",
+        "Na(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na-lactate": [
+        "Na(+)",
+        "Lactic acid"
+    ],
+    "Na2S2SO3": [
+        "Na(+)",
+        "Na(+)",
+        "S2SO3"
+    ],
+    "Strace element ": [
+        "Trace element"
+    ],
+    "dimethysulfone": [
+        "Dimethysulfone"
+    ],
+    "NH4(MoO4)": [
+        "NH4(+)",
+        "MoO4(2-)"
+    ],
+    "Peptone from Marine Source": [
+        "Peptone"
+    ],
+    "sodium laurate": [
+        "Na(+)",
+        "Na(+)",
+        "Lactic acid"
+    ],
+    "Defibrinated or Sterile Sheep Blood": [
+        "Sheep blood"
+    ],
+    "MgSO4 4H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Potassium oxalate": [
+        "Oxalate"
+    ],
+    "Yeast Extract 25%": [
+        "Yeast Extract"
+    ],
+    "MgSO4 \u00d7 7 H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "CaC\u00d7 2 H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "FeC\u00d7 6 H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2S2O3 \u00d7 5 H2O": [
+        "Na(+)",
+        "Na(+)",
+        "S2O3(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Tryptone peptone": [
+        "Tryptone"
+    ],
+    "Na2S \u00d7 9 H2O": [
+        "Na(+)",
+        "Na(+)",
+        "S(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "Thiosulfate, yeast extract, Tryptone, Casamino acids, and sulfide": [
+        "Thiosulfate"
+    ],
+    "Fe(III)NH4-EDTA": [
+        "Fe(3+)",
+        "Edetic Acid"
+    ],
+    "Cystein -HCL": [
+        "Cysteine",
+        "H(+)"
+    ],
+    "Glucose 1 M": [
+        "D-Glucose"
+    ],
+    "SrCx 6 H2O ": [
+        "Sr(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "KI ": [
+        "K(+)",
+        "I(-)"
+    ],
+    "N-Acetyl glucosamine": [
+        "Acetyl glucosamine"
+    ],
+    "Sodium thyoglycolate": [
+        "Na(+)",
+        "Thioglycolic"
+    ],
+    "Acetyl glucosamine": [
+        "Acetyl glucosamine"
+    ],
+    "Yeast nitrogen base": [
+        "Yeast Extract"
+    ],
+    "Na-gallate": [
+        "Na(+)",
+        "Gallate"
+    ],
+    "HEPPS": [
+        "H(+)",
+        "EPPS"
+    ],
+    "Mineral salts mix": [
+        "Mineral Salts"
+    ],
+    "HEPPS buffer ": [
+        "H(+)",
+        "EPPS"
+    ],
+    "Zinc chloride": [
+        "Cl(-)",
+        "Cl(-)",
+        "Zn(2+)"
+    ],
+    "Sodium sulphide": [
+        "Na(+)"
+    ],
+    "Sorbitol": [
+        "L-mannitol"
+    ],
+    "DL-Methionine": [
+        "Methionine"
+    ],
+    "beef extract": [
+        "Beef extract"
+    ],
+    "Lubrasol": [
+        "Lubrasol"
+    ],
+    "ManRogosa Sharp broth": [
+        "Broth"
+    ],
+    "n-Butyric acid": [
+        "N-Butyric Acid"
+    ],
+    "Peptone Caso": [
+        "Peptone"
+    ],
+    "CM-Mix": [
+        "CM-Mix"
+    ],
+    "NaHC O3": [
+        "Na(+)",
+        "H(+)",
+        "HCO3(-)"
+    ],
+    "MgCx 2 H2O": [
+        "Mg(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2SeO3": [
+        "SeO3(2-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "Clarified rumen fluid": [
+        "Rumen fluid"
+    ],
+    "L-Cysteine HCl x H2O": [
+        "Cysteine",
+        "H(+)",
+        "Cl(-)",
+        "H2O",
+        "H2O"
+    ],
+    "Wilkins-Chalgren anaerobe agar": [
+        "Wilkins-Chalgren anaerobe agar"
+    ],
+    "Chalgren anaerobe agar": [
+        "Chalgren anaerobe agar"
+    ],
+    "1,4-Naphthaquinone": [
+        "1,4-Naphthaquinone"
+    ],
+    "Peptic Digest of Casein Peptone": [
+        "Casitone"
+    ],
+    "BaCl2": [
+        "Cl(-)",
+        "Cl(-)",
+        "Ba(2+)"
+    ],
+    "H3BO4": [
+        "H(+)",
+        "H(+)",
+        "H(+)",
+        "BO4(3-)"
+    ],
+    "TAPSO": [
+        "TAPSO"
+    ],
+    "syringic acid": [
+        "Syringate"
+    ],
+    "Na-thiosulfate": [
+        "Na(+)"
+    ],
+    "Casein hydrolysate acid hydrolysed vitamine-free": [
+        "Casein hydrolysate"
+    ],
+    "Na3Citrate": [
+        "Na(+)",
+        "Na(+)",
+        "Na(+)",
+        "Citrate"
+    ],
+    "K2HPO4 3H2O": [
+        "K(+)",
+        "K(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Synthetic seawater": [
+        "Seawater"
+    ],
+    "Anoxic carbonate": [
+        "HCO3(-)"
+    ],
+    "Anoxic yeast extract": [
+        "Yeast Extract"
+    ],
+    "Anoxic vitamins": [
+        "Vitamin Mix"
+    ],
+    "Anoxic NaNO3": [
+        "NO3(-)",
+        "Na(+)"
+    ],
+    "Seven vitamins ": [
+        "Vitamin Mix"
+    ],
+    "Xylose": [
+        "Xylose"
+    ],
+    "Sodium Acetate": [
+        "Acetate",
+        "Na(+)"
+    ],
+    "Ammonium Citrate": [
+        "NH4(+)",
+        "NH4(+)",
+        "Citrate"
+    ],
+    "MRS Agar": [
+        "MRS Agar"
+    ],
+    "Sodium Bicarbonate": [
+        "HCO3(-)",
+        "Na(+)"
+    ],
+    "Mineral Salts": [
+        "Mineral Salts"
+    ],
+    "Difco Bacto Agar": [
+        "Difco Bacto Agar"
+    ],
+    "Papain digest of soybean meal": [
+        "Papain digest of soybean meal"
+    ],
+    "SrCx 6 H2O": [
+        "Sr(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na-resazurin": [
+        "Na(+)",
+        "Resazurin"
+    ],
+    "Proteose peptone no. 3": [
+        "Proteose Peptone"
+    ],
+    "Gellan gum": [
+        "Gellan gum"
+    ],
+    "tetrachloroethene": [
+        "C2Cl4"
+    ],
+    "Pyridoxal HCl": [
+        "Pyridoxine",
+        "H(+)",
+        "Cl(-)"
+    ],
+    "Glucose ": [
+        "D-Glucose"
+    ],
+    "Fe(NH4)2(SO4)2 ": [
+        "Fe(3+)"
+    ],
+    "NiC6H2O ": [
+        "Ni(2+)",
+        "C6H2O"
+    ],
+    "Na2-Fumarate": [
+        "Na(+)",
+        "Na(+)",
+        "Fumaric acid"
+    ],
+    "Fe(III)-citrate": [
+        "Fe(3+)",
+        "Citrate"
+    ],
+    "MgCl-2 x 6 H-2O": [
+        "Mg(2+)",
+        "Cl(-)",
+        "H(+)"
+    ],
+    "MgSO-4 x 7 H-2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H(+)"
+    ],
+    "CaCl-2 x 2 H-2O": [
+        "Ca(2+)",
+        "Cl(-)",
+        "H(+)"
+    ],
+    "KH-2PO-4": [
+        "K(+)",
+        "H(+)"
+    ],
+    "SrCl-2": [
+        "Sr(2+)",
+        "Cl(-)"
+    ],
+    "NaHCO-3": [
+        "Na(+)",
+        "H(+)",
+        "HCO3(-)"
+    ],
+    "FeCl-2 x 4 H-2O": [
+        "Fe(3+)",
+        "Cl(-)",
+        "H(+)"
+    ],
+    "Methylamine": [
+        "Methylamine"
+    ],
+    "K2HPO4 x 3 H2O": [
+        "K(+)",
+        "K(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O"
+    ],
+    "Tryptic soy agar": [
+        "Tryptone soy agar"
+    ],
+    "sodium vanillate": [
+        "Vanillate",
+        "Na(+)"
+    ],
+    "NaNO2": [
+        "Na(+)",
+        "NO2(-)"
+    ],
+    "Pyruvic Acid": [
+        "Pyruvate"
+    ],
+    "Freshwater A": [
+        "H2O"
+    ],
+    "tryptone": [
+        "Tryptone"
+    ],
+    "yeast extract": [
+        "Yeast Extract"
+    ],
+    "White table wine": [
+        "White wine"
+    ],
+    "White wine": [
+        "White wine"
+    ],
+    "Trace mineral SL": [
+        "Trace element"
+    ],
+    "Na3-EDTA": [
+        "Na(+)",
+        "Na(+)",
+        "Na(+)",
+        "EDTA"
+    ],
+    "(NH4)2MoO4": [
+        "NH4(+)",
+        "NH4(+)",
+        "MoO4(2-)"
+    ],
+    "Antipyrine": [
+        "Antipyrine"
+    ],
+    "ammonium phosphate": [
+        "NH4(+)",
+        "PO4(3-)"
+    ],
+    "pantothenate": [
+        "PAN"
+    ],
+    "Potassium iodure": [
+        "K(+)",
+        "I(-)"
+    ],
+    "stearate": [
+        "Isooctadecanoic acid"
+    ],
+    "Na2SiO3 x 9 H2O": [
+        "Na(+)",
+        "Na(+)",
+        "H2SiO3",
+        "H2O",
+        "H2O"
+    ],
+    "Fe2(SO4)3 x n H2O": [
+        "Fe(3+)",
+        "Fe(3+)",
+        "SO4(2-)",
+        "SO4(2-)",
+        "SO4(2-)",
+        "H2O"
+    ],
+    "Na2SeO3 x 5 H2O": [
+        "SeO3(2-)",
+        "Na(+)",
+        "Na(+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "MnSO4 x 2 H2O": [
+        "SO4(2-)",
+        "Mn(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CoSO4 x 7 H2O": [
+        "Co(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "KAl(SO4) x H2O": [
+        "K(+)",
+        "Al(3+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "Thiamine -HCl": [
+        "Thiamine",
+        "Cl(-)"
+    ],
+    "Nicotinic Acid": [
+        "Nitrobenzol"
+    ],
+    "D-Ca-Pantothenate": [
+        "Ca(2+)",
+        "PAN"
+    ],
+    "p-Aminobenz oic Acid": [
+        "P-Aminobenz oic Acid"
+    ],
+    "Trace element SL7": [
+        "Trace element"
+    ],
+    "Na2Se3": [
+        "Na(+)",
+        "Na(+)",
+        "Se(3+)"
+    ],
+    "NaVO3 x H2O": [
+        "Na(+)",
+        "VO(2+)",
+        "VO(2+)",
+        "VO(2+)",
+        "H2O",
+        "H2O"
+    ],
+    "Bovine Albumin": [
+        "Bovine serum"
+    ],
+    "Ferrous sulfate": [
+        "SO4(2-)",
+        "Fe(3+)"
+    ],
+    "Cr2(SO4)3": [
+        "Cr(3+)",
+        "Cr(3+)",
+        "SO4(2-)",
+        "SO4(2-)",
+        "SO4(2-)"
+    ],
+    "Na2SO4 X H2O": [
+        "SO4(2-)",
+        "Na(+)",
+        "Na(+)",
+        "H2O",
+        "H2O"
+    ],
+    "Acetylmuranic acid": [
+        "Acetylmuranic acid"
+    ],
+    "Cresol red ": [
+        "Cresol red"
+    ],
+    "HEPES or CaCO3 ": [
+        "H(+)",
+        "EPES",
+        "Ca(2+)",
+        "HCO3(-)"
+    ],
+    "HCl, 1M": [
+        "Cl(-)"
+    ],
+    "(NH4)6 Mo7Ox 4 H2O": [
+        "H2O",
+        "H2O"
+    ],
+    "Cresol red": [
+        "Cresol red"
+    ],
+    "Tryptone soy agar": [
+        "Tryptone soy agar"
+    ],
+    "K2HPO4\u00b72H2O": [
+        "K(+)",
+        "K(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na-ampicillin": [
+        "Na(+)",
+        "Ampicillin"
+    ],
+    "Na2B4O7 x H2O": [
+        "Na(+)",
+        "Na(+)",
+        "B4O7(-)",
+        "H2O",
+        "H2O"
+    ],
+    "SrCl3": [
+        "Sr(2+)",
+        "Cl(-)",
+        "Cl(-)",
+        "Cl(-)"
+    ],
+    "Filtered sea water to": [
+        "Seawater"
+    ],
+    "Peptone from soy meal": [
+        "Soy peptone"
+    ],
+    "Artificial Sea Water": [
+        "Seawater"
+    ],
+    "Trace Element SL-10": [
+        "Trace element"
+    ],
+    "Artificial Sea Water ": [
+        "Seawater"
+    ],
+    "FeCl2": [
+        "Cl(-)",
+        "Cl(-)",
+        "Fe(3+)"
+    ],
+    "MnCx 4H2O": [
+        "Mn(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CuCx 2H2O": [
+        "Cu(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Vitamin Composition": [
+        "Vitamin Mix"
+    ],
+    "Thiamine-HCl x 2H2O": [
+        "Thiamine",
+        "H(+)",
+        "Cl(-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Marine Broth": [
+        "Marine Broth"
+    ],
+    "methane": [
+        "CH3"
+    ],
+    "H2WO4": [
+        "WO4(2-)"
+    ],
+    "Fe2(SO4)3": [
+        "Fe(3+)",
+        "Fe(3+)",
+        "SO4(2-)",
+        "SO4(2-)",
+        "SO4(2-)"
+    ],
+    "1,4-Naphthoquinone": [
+        "1,2-Naphthoquinone"
+    ],
+    "Na2S2O4": [
+        "Na(+)",
+        "Na(+)",
+        "S2O4(2-)"
+    ],
+    "Rhamnose": [
+        "L-rhamnulofuranose"
+    ],
+    "K2HPO4 \u00b7 3H2O": [
+        "K(+)",
+        "K(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Ca pantothenate": [
+        "Ca(2+)",
+        "PAN"
+    ],
+    "Sodium gluconate": [
+        "Na(+)",
+        "Gluconate"
+    ],
+    "Succinate": [
+        "Fumaric acid"
+    ],
+    "Malate": [
+        "Malic Acid"
+    ],
+    "Special peptone": [
+        "Peptone"
+    ],
+    "Trypticase soy broth without glucose": [
+        "Tryptone Soy Broth"
+    ],
+    "Cyanocobalamin": [
+        "Dicopac"
+    ],
+    "Nicotinate": [
+        "Nitrobenzol"
+    ],
+    "acetate": [
+        "Acetate"
+    ],
+    "TAPS": [
+        "TAPSO"
+    ],
+    "Soy Pepton": [
+        "Soy peptone"
+    ],
+    "Sodium Caseinate": [
+        "Na(+)",
+        "Casein"
+    ],
+    "Sodium Propionate": [
+        "Propionate",
+        "Na(+)"
+    ],
+    "Magnesium Sulphate": [
+        "Mg(2+)",
+        "SO4(2-)"
+    ],
+    "Ferrous Sulphate": [
+        "Ferrous Sulphate"
+    ],
+    "Na3EDTA": [
+        "Na(+)",
+        "Na(+)",
+        "Na(+)",
+        "EDTA"
+    ],
+    "Na-crotonate ": [
+        "Na(+)"
+    ],
+    "Fetal calf serum": [
+        "Calf serum"
+    ],
+    "Trypan Blue": [
+        "Trypan Blue"
+    ],
+    "Pyruvate": [
+        "Pyruvate"
+    ],
+    "K2HPO4.3H2O": [
+        "K(+)",
+        "K(+)",
+        "H(+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CaCl2.6H2O": [
+        "Ca(2+)",
+        "Cl(-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Trace elements SL6": [
+        "Trace element"
+    ],
+    "SrCx 6H2O": [
+        "Sr(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Sodium dithionite": [
+        "SO4(2-)",
+        "SO4(2-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "Brown Algal Extract": [
+        "Brown Algal Extract"
+    ],
+    "Sea Salts Mixture": [
+        "Sea salts"
+    ],
+    "R2A Broth": [
+        "R2A"
+    ],
+    "Marine Salts": [
+        "Marine Salts"
+    ],
+    "L-cysteine HCl x H2O": [
+        "Cysteine",
+        "H(+)",
+        "Cl(-)",
+        "H2O",
+        "H2O"
+    ],
+    "corn meal": [
+        "Corn meal"
+    ],
+    "D(+)-Trehalose": [
+        "Trehalose"
+    ],
+    "Formamide": [
+        "CN(-)",
+        "H(+)",
+        "H(+)",
+        "H(+)"
+    ],
+    "Glutamine": [
+        "L-isoglutamine"
+    ],
+    "Betaine x H2O": [
+        "4-methylmorpholine N-Oxide",
+        "H2O",
+        "H2O"
+    ],
+    "Trace Metal Mix": [
+        "Trace element"
+    ],
+    "CuSO4 x 5H2O": [
+        "Cu(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Co(NO3)2 x 6H2O": [
+        "Co(2+)",
+        "NO3(-)",
+        "NO3(-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "L-Fucose": [
+        "L-rhamnulofuranose"
+    ],
+    "Antibiotics": [
+        "Antibiotics"
+    ],
+    "Bovine rumen fluid, clarified": [
+        "Rumen fluid"
+    ],
+    "BICINE buffer": [
+        "BICINE buffer"
+    ],
+    "DL-malic acid": [
+        "Malic Acid"
+    ],
+    "Yeastextract": [
+        "Yeast Extract"
+    ],
+    "TiCl3": [
+        "Ti(3+)",
+        "Cl(-)",
+        "Cl(-)",
+        "Cl(-)"
+    ],
+    "Acidified Starch": [
+        "Acidified Starch"
+    ],
+    "Ca(NO3)2 x 4 H2O": [
+        "Ca(2+)",
+        "NO3(-)",
+        "NO3(-)",
+        "H2O",
+        "H2O"
+    ],
+    "Deionized or distilled water": [
+        "H2O"
+    ],
+    "Universal Peptone": [
+        "Peptone"
+    ],
+    "Fumaric acid": [
+        "Squaric\u00a0acid"
+    ],
+    "FeCx 4H2O": [
+        "Fe(3+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "5-Aminovalerate": [
+        "4-methylmorpholine N-Oxide"
+    ],
+    "Tryptone Soja Broth": [
+        "Tryptone"
+    ],
+    "\u03b1-D-Glucose": [
+        "D-Glucose"
+    ],
+    "DMS": [
+        "Ethanethiol"
+    ],
+    "Soybean Casein Digest": [
+        "Soytone"
+    ],
+    "KB": [
+        "K(+)"
+    ],
+    "Malt extract broth": [
+        "Malt extract broth"
+    ],
+    "Aspartic Acid": [
+        "2-hydroxysuccinamate"
+    ],
+    "Trace Salts ": [
+        "Trace salt"
+    ],
+    "Nystatin": [
+        "Nystatin A1"
+    ],
+    "Tryptose Phosphate": [
+        "Tryptose Phosphate Broth"
+    ],
+    "C12H22O11": [
+        "Trehalose"
+    ],
+    "Na 2-fumarate": [
+        "Na(+)",
+        "Squaric\u00a0acid"
+    ],
+    "Na 2S2O3 x 5 H2O": [
+        "Na(+)",
+        "S2O3(2-)",
+        "S2O3(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na 2S x 9 H2O": [
+        "Na(+)",
+        "H2O",
+        "H2O"
+    ],
+    "NH4Cl2": [
+        "NH4(+)",
+        "Cl(-)",
+        "Cl(-)"
+    ],
+    "Monosodium glutamate": [
+        "Monosodium glutamate"
+    ],
+    "FeSO4 * 7 H2O": [
+        "Fe(3+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "MnC* 4 H2O": [
+        "H2O",
+        "H2O"
+    ],
+    "Ca-D-pantothenate": [
+        "Ca(2+)",
+        "PAN"
+    ],
+    "Mineral Salts ": [
+        "Mineral Salts"
+    ],
+    "Tris-Base": [
+        "Tris-HCl buffer",
+        "Tris-Base"
+    ],
+    "Potassium sulfate": [
+        "SO4(2-)",
+        "K(+)",
+        "K(+)"
+    ],
+    "Diamond crystals": [
+        "Diamond crystals"
+    ],
+    "Cysteine -HCl x H2O": [
+        "Cysteine",
+        "Cl(-)",
+        "H2O",
+        "H2O"
+    ],
+    "Soil Extract": [
+        "Soil extract"
+    ],
+    "Hutner's salts": [
+        "Hutner's salts"
+    ],
+    "(NH4)6MoOx 4H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2B4O7 x 10H2O": [
+        "Na(+)",
+        "Na(+)",
+        "B4O7(-)"
+    ],
+    "NZ-Amine": [
+        "Amine"
+    ],
+    "Na3-Citrate x 2 H2O": [
+        "Na(+)",
+        "Na(+)",
+        "Na(+)",
+        "Citrate",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Tri-Na Citrate": [
+        "Citrate"
+    ],
+    "ASW": [
+        "ASW"
+    ],
+    "Heart Infusion Broth": [
+        "Heart infusion"
+    ],
+    "Ribose": [
+        "Xylose"
+    ],
+    "Potassium Phosphate": [
+        "PO4(3-)",
+        "PO4(3-)"
+    ],
+    "Pectin": [
+        "Pectin"
+    ],
+    "Elemental Sulphur": [
+        "Elemental sulphur"
+    ],
+    "Mg(NO3)2": [
+        "Mg(2+)",
+        "NO3(-)",
+        "NO3(-)"
+    ],
+    "Albomycin": [
+        "Albomycin"
+    ],
+    "Gelatin": [
+        "Gelatin"
+    ],
+    "Neopeptone": [
+        "Neopeptone"
+    ],
+    "Bacto brain heart infusion": [
+        "brain_heart"
+    ],
+    "Porcine serum": [
+        "Porcine serum"
+    ],
+    "antibiotic": [
+        "Antibiotics"
+    ],
+    "Soy Peptone": [
+        "Soy peptone"
+    ],
+    "MgC\u2022 6H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2-tartrate x 2 H2O": [
+        "Na(+)",
+        "Na(+)",
+        "Tartrate",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Peptic digest of animal tissue": [
+        "Peptic digest of animal tissue"
+    ],
+    "Hemin and NAD ": [
+        "Hemine",
+        "NAD"
+    ],
+    "Casein Peptone No. 2 or Casein Peptone": [
+        "Casitone"
+    ],
+    "Ammonium Cl": [
+        "NH4(+)"
+    ],
+    "Vitamine sol": [
+        "Vitamin Mix"
+    ],
+    "Chelat ed iron ": [
+        "Fe(3+)"
+    ],
+    "MgSO4 x 6 H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Li2B4O7": [
+        "Li(+)",
+        "Li(+)",
+        "B4O7(-)"
+    ],
+    "FeEDTA ": [
+        "Fe(3+)",
+        "EDTA"
+    ],
+    "MgSO4 * 7H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CaC* 2H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "MgC* 6H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Fetal or newborn calf serum": [
+        "Calf serum"
+    ],
+    "L-Serine": [
+        "Serine"
+    ],
+    "MgC. 6H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2S x 9 H20": [
+        "Na(+)",
+        "Na(+)",
+        "S(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "L-Aspartic Acid": [
+        "2-hydroxysuccinamate"
+    ],
+    "FAD": [
+        "FADH2"
+    ],
+    "Myo-Inositol": [
+        "L-Inositol"
+    ],
+    "Allegro Yeast Extract": [
+        "Yeast Extract"
+    ],
+    "Cycloserine": [
+        "L-4-amino-3-isoxazolidinone"
+    ],
+    "sodium L-tartrate": [
+        "Na(+)",
+        "L-tartrate"
+    ],
+    "MnCx 2 H2O": [
+        "Mn(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Sodium Carbonate": [
+        "HCO3(-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "NaNO-3": [
+        "Na(+)",
+        "NO3(-)"
+    ],
+    "Ca(NO-3)-2 x 4 H-2O": [
+        "Ca(2+)",
+        "H(+)"
+    ],
+    "K-2HPO-4": [
+        "K(+)",
+        "H(+)",
+        "H(+)",
+        "H2PO4(-)"
+    ],
+    "Na-2CO-3": [
+        "Na(+)",
+        "HCO3(-)"
+    ],
+    "Stearic acid": [
+        "Isooctadecanoic acid"
+    ],
+    "NaHCO3 ": [
+        "Na(+)",
+        "HCO3(-)"
+    ],
+    "Na2S x H2O": [
+        "Na(+)",
+        "Na(+)",
+        "S(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "D-Galactose": [
+        "D-Glucose"
+    ],
+    "Bacto Tryptone": [
+        "Tryptone"
+    ],
+    "HUT-Vitamin ": [
+        "H(+)",
+        "UT-Vitamin"
+    ],
+    "Fe(NH4)(SO4)2": [
+        "Fe(3+)"
+    ],
+    "Basic Fuchsine": [
+        "Basic Fuchsine"
+    ],
+    "Na2S x 9 H2O ": [
+        "Na(+)",
+        "Na(+)",
+        "S(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "x R2A": [
+        "R2A"
+    ],
+    "FeSO4 \u2022 7H2O": [
+        "Fe(3+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "MnC\u2022 4H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na-orotate": [
+        "Na(+)",
+        "Orotate"
+    ],
+    "OADC": [
+        "OADC"
+    ],
+    "Bicarbonate": [
+        "HCO3(-)"
+    ],
+    "Resorcinol": [
+        "5-Methyl-2-furfural"
+    ],
+    "O2": [
+        "O2"
+    ],
+    "Saccharose": [
+        "Trehalose"
+    ],
+    "Nictotinic acid": [
+        "Ni(2+)",
+        "Ctotinic acid"
+    ],
+    "Na2MoO7O4 x 2 H2O": [
+        "Na(+)",
+        "Na(+)",
+        "Mo(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "AlK(SO4)2 x H2O": [
+        "Al(3+)",
+        "K(+)",
+        "SO4(2-)",
+        "SO4(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "Na-Nitrilotriacetat": [
+        "Na(+)",
+        "Ni(2+)",
+        "Trilotriacetat"
+    ],
+    "Riboflavine": [
+        "Riboflavine"
+    ],
+    "Potatoes": [
+        "Potato"
+    ],
+    "Peptone protease": [
+        "Proteose Peptone"
+    ],
+    "MgSO4 x 6H2O": [
+        "Mg(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Ammonium Succinate": [
+        "Succinate"
+    ],
+    "cholesterol": [
+        "Furostan"
+    ],
+    "NaSeO3": [
+        "Na(+)",
+        "SeO3(2-)"
+    ],
+    "H3BO": [
+        "H(+)",
+        "H(+)",
+        "H(+)",
+        "2,3-butanediol"
+    ],
+    "Na-tungstate": [
+        "Na(+)",
+        "Tungstate"
+    ],
+    "MOPS buffer": [
+        "MOPS buffer"
+    ],
+    "L-Ascorbic acid": [
+        "Ascorbic acid"
+    ],
+    "Na2-maleate": [
+        "Na(+)",
+        "Na(+)"
+    ],
+    "Acetone": [
+        "1,3-epoxypropane"
+    ],
+    "Testosterone": [
+        "4-Methyl-19-nortestosterone"
+    ],
+    "H3BO2": [
+        "H(+)",
+        "H(+)",
+        "H(+)",
+        "BO2(3-)"
+    ],
+    "Na-dithionite": [
+        "Na(+)",
+        "S2O4(2-)"
+    ],
+    "Sodium ditigation": [
+        "Na(+)"
+    ],
+    "Ferric iron citrate": [
+        "Fe(3+)",
+        "Citrate"
+    ],
+    "Na-Caseinate": [
+        "Na(+)"
+    ],
+    "Trace element SL-4": [
+        "Trace element"
+    ],
+    "Trace Element SL10": [
+        "Trace element"
+    ],
+    "Creatine": [
+        "3-Guanidinopropanoate"
+    ],
+    "Na-Thioglycolate": [
+        "Na(+)",
+        "Thioglycolic"
+    ],
+    "Phytone peptone": [
+        "Phytone"
+    ],
+    "Homo-PIPES": [
+        "Homo-PIPES"
+    ],
+    "Na-Nitrilotriacetate": [
+        "Na(+)",
+        "Ni(2+)",
+        "Na(+)",
+        "S(2-)",
+        "Na(+)"
+    ],
+    "Na2MoO4 x H2O": [
+        "MoO4(2-)",
+        "Na(+)",
+        "Na(+)",
+        "H2O",
+        "H2O"
+    ],
+    "Na2-resazurin ": [
+        "Na(+)",
+        "Na(+)",
+        "Resazurin"
+    ],
+    "K-phosphate buffer,7.0": [
+        "Phosphate buffer"
+    ],
+    "FeCx 4H2O ": [
+        "Fe(3+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Aged Seawater": [
+        "Seawater"
+    ],
+    "o-nitrophenol": [
+        "Phenol"
+    ],
+    "Vitamin 141": [
+        "Vitamin Mix"
+    ],
+    "Phytagel": [
+        "Phytagel"
+    ],
+    "Na2SiO3\u00b79H2O": [
+        "Na(+)",
+        "Na(+)",
+        "H2SiO3",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "EDTA di sodium salt": [
+        "EDTA"
+    ],
+    "Na-L-glutamic acid": [
+        "Na(+)",
+        "Glutamate"
+    ],
+    "A tetrasodique": [
+        "EDTA"
+    ],
+    "Dimethyl Sulfoxide": [
+        "Ethylsulfenate"
+    ],
+    "biphenyl": [
+        "Biphenyl"
+    ],
+    "Lanthanum Chloride": [
+        "Lanthanum Chloride"
+    ],
+    "Bacto Yeast extract": [
+        "Yeast Extract"
+    ],
+    "Na2S-cysteine ": [
+        "Na(+)",
+        "Na(+)",
+        "S(2-)",
+        "Cysteine"
+    ],
+    "Glucose 1M": [
+        "D-Glucose"
+    ],
+    "casein": [
+        "Casein"
+    ],
+    "FeCx 4 H2O": [
+        "Fe(3+)",
+        "H2O",
+        "H2O"
+    ],
+    "Peptone from soybean": [
+        "Soy peptone"
+    ],
+    "Potassium dioxide": [
+        "Potassium dioxide"
+    ],
+    "Na2MoO27O4 x 2H2O": [
+        "Na(+)",
+        "Na(+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "AlK(SO4)2 x 12H2O": [
+        "Al(3+)",
+        "K(+)",
+        "SO4(2-)",
+        "SO4(2-)"
+    ],
+    "Na2WO4 x 2H2O": [
+        "Na(+)",
+        "Na(+)",
+        "WO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Thiamine -HCl x 2H2O": [
+        "Thiamine",
+        "Cl(-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "FePO4": [
+        "Fe(3+)",
+        "PO4(3-)"
+    ],
+    "North Sea water": [
+        "Seawater"
+    ],
+    "thiosulfate": [
+        "SO3(2-)",
+        "SO3(2-)"
+    ],
+    "Soy peptonem": [
+        "Soy peptone"
+    ],
+    "Na2S2O5": [
+        "Na(+)",
+        "Na(+)",
+        "S2O5(2-)"
+    ],
+    "NH4SO4": [
+        "NH4(+)",
+        "SO4(2-)"
+    ],
+    "Soybean meal": [
+        "Soybean meal"
+    ],
+    "K2HPO4\u00b7H2O": [
+        "K(+)",
+        "K(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O"
+    ],
+    "KB4": [
+        "K(+)"
+    ],
+    "Vitamin DSMZ 141": [
+        "Vitamin Mix"
+    ],
+    "Trace Element SL": [
+        "Trace element"
+    ],
+    "FeCx 6H2O ": [
+        "Fe(3+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2S x 9 H 2O": [
+        "Na(+)",
+        "Na(+)",
+        "S(2-)"
+    ],
+    "Na2H2PO4": [
+        "Na(+)",
+        "Na(+)",
+        "PO4(3-)"
+    ],
+    "Na2HPO4\u00b72H2O": [
+        "Na(+)",
+        "Na(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na-meta-silicate": [
+        "Na(+)",
+        "H2SiO3"
+    ],
+    "K2HPO4\u00b74H2O": [
+        "K(+)",
+        "K(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Potassium Propionate": [
+        "Propionate"
+    ],
+    "Sodium Sulfate": [
+        "SO4(2-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "Biotryptone": [
+        "Biotryptone"
+    ],
+    "Maleic Acid": [
+        "Squaric\u00a0acid"
+    ],
+    "Maleic acid": [
+        "Squaric\u00a0acid"
+    ],
+    "Na2S . 9H2O": [
+        "Na(+)",
+        "Na(+)",
+        "S(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "VY/2 Base": [
+        "VY/2 Base"
+    ],
+    "Casitone Yeast Extract": [
+        "Yeast Extract"
+    ],
+    "Soil Extract Medium": [
+        "Soil extract"
+    ],
+    "(NH4)HCO3": [
+        "NH4(+)",
+        "HCO3(-)"
+    ],
+    "Arginine x HCl": [
+        "Arginine",
+        "Cl(-)"
+    ],
+    "Soybean flour": [
+        "Soybean Flour"
+    ],
+    "Sodiumpyruvate": [
+        "Na(+)",
+        "Pyruvate"
+    ],
+    "NMS salts": [
+        "NMS salts"
+    ],
+    "EDTA-Na2": [
+        "EDTA"
+    ],
+    "gallic acid": [
+        "5-Methylmaleylacetate"
+    ],
+    "Trace element SL10": [
+        "Trace element"
+    ],
+    "Tungstate": [
+        "WO4(2-)"
+    ],
+    "Na gluconate": [
+        "Na(+)"
+    ],
+    "Na acetate x 3 H2O": [
+        "Na(+)",
+        "Acetate",
+        "H2O",
+        "H2O"
+    ],
+    "Na malate": [
+        "Na(+)",
+        "Malate"
+    ],
+    "Tryptone Soybroth": [
+        "Tryptone Soy Broth"
+    ],
+    "Butyrate": [
+        "Butyrate"
+    ],
+    "MnCl2.4H2O": [
+        "Mn(2+)",
+        "Cl(-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Sodium menadione": [
+        "Na(+)",
+        "2,3-methylenedioxynaphthalene"
+    ],
+    "Bovin hemin": [
+        "Hemin bovine"
+    ],
+    "Cysteine HCl x H2O": [
+        "Cysteine",
+        "H(+)",
+        "Cl(-)",
+        "H2O",
+        "H2O"
+    ],
+    "Fe2(SO4)3 x H2O": [
+        "Fe(3+)",
+        "Fe(3+)",
+        "SO4(2-)",
+        "SO4(2-)",
+        "SO4(2-)",
+        "H2O",
+        "H2O"
+    ],
+    "Arsenate": [
+        "H(+)",
+        "HAsO4(2-)"
+    ],
+    "Vitamin Med. 141": [
+        "Vitamin Mix"
+    ],
+    "Na2HPO4*7H2O": [
+        "Na(+)",
+        "Na(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Clarified Tomato Juice": [
+        "Tomato Extract"
+    ],
+    "Glucose Monohydrate": [
+        "Glucose Monohydrate"
+    ],
+    "Nutrient Broth Medium": [
+        "Broth"
+    ],
+    "Tryptonone": [
+        "Tryptone"
+    ],
+    "4-aminobenzoate": [
+        "3-aminobenzoate"
+    ],
+    "Pyridoxamine-HCl": [
+        "Pyridoxine",
+        "Cl(-)"
+    ],
+    "Thiamine-HCl x 2 H2O": [
+        "Thiamine",
+        "H(+)",
+        "Cl(-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Cobalamine": [
+        "Cobalamine"
+    ],
+    "Cinnamate": [
+        "Cinnamic acid"
+    ],
+    "new borne calf serum": [
+        "Calf serum"
+    ],
+    "Foetal calf serum": [
+        "Calf serum"
+    ],
+    "Plate count broth": [
+        "Broth"
+    ],
+    "Pyridoxal-HCl": [
+        "D-4-hydroxyphenylglycine",
+        "Cl(-)"
+    ],
+    "pyridoxal phosphate": [
+        "Pyridoxine phosphate"
+    ],
+    "coenzyme A": [
+        "CoA"
+    ],
+    "calcium folinic acid": [
+        "Ca(2+)",
+        "5-Formyltetrahydrofolate"
+    ],
+    "NaSO4": [
+        "Na(+)",
+        "SO4(2-)"
+    ],
+    "Fe(NH4)2(SO4)2.6H2O": [
+        "Fe(3+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2S.9H2O": [
+        "Na(+)",
+        "Na(+)",
+        "S(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "(NH4)2(Fe(SO4)2": [
+        "Fe(3+)"
+    ],
+    "bicarbonate": [
+        "HCO3(-)"
+    ],
+    "NaH2PO4 x 2H2O": [
+        "H2PO4(-)",
+        "Na(+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2HPO4 x 12H2O": [
+        "Na(+)",
+        "Na(+)",
+        "PO4(3-)"
+    ],
+    "Metal mixture": [
+        "Metal mixture"
+    ],
+    "myo Inositol": [
+        "L-Inositol"
+    ],
+    "Se-acid": [
+        "Se(3+)"
+    ],
+    "HBO3": [
+        "H(+)",
+        "BO3(3-)"
+    ],
+    "Soya peptone": [
+        "Soya peptone"
+    ],
+    "Bile Salts": [
+        "Bile salts"
+    ],
+    "Sodium Thiosulfate": [
+        "SO3(2-)",
+        "SO3(2-)",
+        "Na(+)",
+        "Na(+)"
+    ],
+    "NaCl: KNO3": [
+        "Na(+)",
+        "Cl(-)",
+        "NO3(-)",
+        "K(+)"
+    ],
+    "NaNO3: Na2HPO4": [
+        "NO3(-)",
+        "Na(+)",
+        "Na(+)",
+        "Na(+)",
+        "PO4(3-)"
+    ],
+    "D-Glucose: Trypticase peptone": [
+        "Tryptone"
+    ],
+    "KCL": [
+        "Cl(-)",
+        "K(+)"
+    ],
+    "Fildes ": [
+        "Fildes Enrichmen"
+    ],
+    "Wilkins Chalgrene Anaerobe Broth": [
+        "Broth"
+    ],
+    "Heated Sheep Red Blood Cells": [
+        "Sheep blood"
+    ],
+    "R2A base": [
+        "R2A"
+    ],
+    "BactoAgar": [
+        "Agar"
+    ],
+    "ZnSO4 \u2022 7H2O": [
+        "SO4(2-)",
+        "Zn(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "FeC. 6H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Vitamin sol.": [
+        "Vitamin Mix"
+    ],
+    "KH2SO4": [
+        "K(+)",
+        "SO4(2-)"
+    ],
+    "Fe(NH4)SO4": [
+        "Fe(3+)"
+    ],
+    "Na2PO4 x 7 H2O": [
+        "Na(+)",
+        "Na(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O"
+    ],
+    "Na2-succinate": [
+        "Na(+)",
+        "Na(+)",
+        "Succinate"
+    ],
+    "Fe(OH)3": [
+        "Fe(3+)",
+        "OH(-)",
+        "OH(-)",
+        "OH(-)"
+    ],
+    "Cold Extracted Soil Extract": [
+        "Soil extract"
+    ],
+    "Artificial sea salts": [
+        "Sea salts"
+    ],
+    "Diced potato": [
+        "Potato"
+    ],
+    "Hexaminoleucine": [
+        "Leucine"
+    ],
+    "Manganese chloride": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "Cl(-)",
+        "Cl(-)",
+        "Mn(2+)"
+    ],
+    "Zinc sulfate": [
+        "SO4(2-)",
+        "Zn(2+)"
+    ],
+    "L-Threonine": [
+        "Threonine"
+    ],
+    "N-Methylhydantoin": [
+        "L-5-methylhydantoin"
+    ],
+    "Serine": [
+        "Serine"
+    ],
+    "Threonine": [
+        "Threonine"
+    ],
+    "methylhydantoin": [
+        "Methylhydantoin"
+    ],
+    "Citric Acid": [
+        "Citrate"
+    ],
+    "Tris/HCl": [
+        "Tris maleate",
+        "Cl(-)"
+    ],
+    "Trace metal ": [
+        "Trace element"
+    ],
+    "FeCl2/MnC": [
+        "Fe(3+)",
+        "Cl(-)",
+        "Cl(-)"
+    ],
+    "(NH4)-acetate": [
+        "NH4(+)",
+        "Acetate"
+    ],
+    "Fe(III) citrate ": [
+        "Fe(3+)",
+        "Citrate"
+    ],
+    "Trace element SL -6": [
+        "Trace element"
+    ],
+    "L-Cysteiniumchloride": [
+        "L-Cysteiniumchloride"
+    ],
+    "Decane": [
+        "N-decane"
+    ],
+    "D-mannitol": [
+        "L-mannitol"
+    ],
+    "Casein Enriched Peptone": [
+        "Casitone"
+    ],
+    "Arginine": [
+        "Arginine"
+    ],
+    "Choline": [
+        "Choline"
+    ],
+    "Cystein HCl x H": [
+        "Cysteine",
+        "Cl(-)"
+    ],
+    "pyrocatechol": [
+        "5-Methyl-2-furfural"
+    ],
+    "Na-meta silicate": [
+        "Na(+)",
+        "Meta silicate"
+    ],
+    "Na formate": [
+        "Na(+)",
+        "Formate"
+    ],
+    "Fe citrate": [
+        "Fe(3+)",
+        "Citrate"
+    ],
+    "Cysteine-HCl x 2 H2O": [
+        "Cysteine",
+        "H(+)",
+        "Cl(-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Se/W ": [
+        "Se(3+)"
+    ],
+    "glutamine": [
+        "L-isoglutamine"
+    ],
+    "Thioglycolate": [
+        "Mercaptoacetate"
+    ],
+    "(NH4)H2PO4": [
+        "NH4(+)",
+        "PO4(3-)"
+    ],
+    "Na-L-Fumarate": [
+        "Na(+)",
+        "Fumaric acid"
+    ],
+    "sodium lactate": [
+        "Lactic acid"
+    ],
+    "3-aminophenol": [
+        "Carbapenem"
+    ],
+    "Malt extract ": [
+        "Malt extract"
+    ],
+    "water-lysed sheep blood": [
+        "Sheep blood"
+    ],
+    "starch": [
+        "Starch"
+    ],
+    "Soya pepton": [
+        "Soy peptone"
+    ],
+    "Na3-citrate \u2022 2H2O": [
+        "Na(+)",
+        "Na(+)",
+        "Na(+)",
+        "Citrate",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2-EDTA \u2022 2H2O": [
+        "Na(+)",
+        "Na(+)",
+        "EDTA",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Na2MoO4 \u2022 2H2O": [
+        "MoO4(2-)",
+        "Na(+)",
+        "Na(+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CuSO4 \u2022 5H2O": [
+        "Cu(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Co(NO3)2 \u2022 6H2O": [
+        "Co(2+)",
+        "NO3(-)",
+        "NO3(-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "K2HPO4 \u2022 3H2O": [
+        "K(+)",
+        "K(+)",
+        "PO4(3-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Surfactant": [
+        "Surfactant"
+    ],
+    "Sea Salt": [
+        "Sea salts"
+    ],
+    "Gentisic acid": [
+        "Benzoquinone"
+    ],
+    "quinoline": [
+        "Quinoline"
+    ],
+    "6-methylnicotinate": [
+        "6-methylnicotinate"
+    ],
+    "Na Acetate": [
+        "Na(+)",
+        "Acetate"
+    ],
+    "Malic Acid": [
+        "Malic Acid"
+    ],
+    "Bactopeptone": [
+        "Peptone"
+    ],
+    "LiCl": [
+        "Li(+)",
+        "Cl(-)"
+    ],
+    "Na2MoO2": [
+        "Na(+)",
+        "Na(+)"
+    ],
+    "SnCl2": [
+        "Sn(2+)",
+        "Cl(-)",
+        "Cl(-)"
+    ],
+    "Tris HCl": [
+        "Tris-HCl buffer"
+    ],
+    "Fe(III) quinate ": [
+        "Fe(3+)",
+        "Quinate"
+    ],
+    "D-Xylose": [
+        "Xylose"
+    ],
+    "Syringate": [
+        "Syringate"
+    ],
+    "Dried fig, quartered": [
+        "Dried fig"
+    ],
+    "Tibi grains ": [
+        "Oats"
+    ],
+    "MnSO4 x 4H2O": [
+        "SO4(2-)",
+        "Mn(2+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "Standard vitamin ": [
+        "Vitamin Mix"
+    ],
+    "Na2HAsO4": [
+        "Na(+)",
+        "Na(+)",
+        "H(+)",
+        "HAsO4(2-)"
+    ],
+    "Sodium butyrate": [
+        "Butyrate",
+        "Na(+)"
+    ],
+    "toluene": [
+        "Toluene"
+    ],
+    "Glycerol mono-oleate": [
+        "Glycerol"
+    ],
+    "Ox-bile": [
+        "Ox-bile"
+    ],
+    "Tween 40": [
+        "Tween"
+    ],
+    "2-furoic acid": [
+        "2-furoic acid"
+    ],
+    "Sodium succinate": [
+        "Na(+)",
+        "Succinate"
+    ],
+    "Basal salts ": [
+        "Basal salts"
+    ],
+    "Phosphate ": [
+        "PO4(3-)"
+    ],
+    "Na-caseinate": [
+        "Na(+)"
+    ],
+    "NaH2PO4 \u00b7 2H2O": [
+        "H2PO4(-)",
+        "Na(+)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "FeSO4 \u00b7 6H2O": [
+        "Fe(3+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CuSO4 \u00b7 2H2O": [
+        "Cu(2+)",
+        "SO4(2-)",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "CaC\u00b7 6H2O": [
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O",
+        "H2O"
+    ],
+    "ethanolamine": [
+        "Aminoethanol"
+    ],
+    "Trace element SL-8": [
+        "Trace element"
+    ],
+    "Cyclomaltoheptaose": [
+        "Betadex"
+    ],
+    "(NH4)2 HPO4": [
+        "NH4(+)",
+        "PO4(3-)"
+    ],
+    "Pyromelitic acid": [
+        "Pyromelitic acid"
+    ],
+    "Trace elements N1": [
+        "Trace element"
+    ],
+    "Vitamin N1": [
+        "Vitamin Mix"
+    ],
+    "Nutrient broth": [
+        "Broth"
+    ],
+    "(NH4)NO3 ": [
+        "NH4(+)",
+        "NO3(-)"
+    ],
+    "Na2HPO4 ": [
+        "Na(+)",
+        "Na(+)",
+        "PO4(3-)"
+    ],
+    "Ethylene glycol": [
+        "Ethylene glycol"
+    ],
+    "Ammonium Molybdate": [
+        "NH4(+)",
+        "MoO4(2-)"
+    ],
+    "Charcoal": [
+        "Charcoal"
+    ],
+    "garden soil": [
+        "Garden soil"
+    ],
+    "Phenol Red Indicator": [
+        "Phenol red"
+    ],
+    "Dextran": [
+        "DEXTRAN"
+    ],
+    "Dung extract": [
+        "Dung extract"
+    ],
+    "Na-Pantothenate": [
+        "Na(+)",
+        "PAN"
+    ],
+    "Cresol": [
+        "Cresol"
+    ],
+    "2-sulfobenzoic acid": [
+        "2-sulfobenzoic acid"
+    ],
+    "Sugar beet molasses": [
+        "Sugar beet molasses"
+    ],
+    "Ginger, ": [
+        "Ginger"
+    ],
+    "rabbit blood": [
+        "Rabbit Blood"
+    ],
+    "NaNH4HPO4": [
+        "Na(+)",
+        "NH4(+)",
+        "PO4(3-)"
+    ],
+    "n-Octane": [
+        "2,2,4-trimethylpentane"
+    ],
+    "Nicothinate": [
+        "Ni(2+)",
+        "Cotinine"
+    ],
+    "Metasalt \"44\"": [
+        "Metal mixture"
+    ],
+    "TRIS-HCl": [
+        "Tris-hydrochloride"
+    ],
+    "cyanuric acid": [
+        "Cyanuric acid"
+    ],
+    "Trace metal mix -Cu": [
+        "Trace element"
+    ],
+    "Citric acid ": [
+        "Citrate"
+    ],
+    "Dry cow manure": [
+        "Cow manure"
+    ]
+}

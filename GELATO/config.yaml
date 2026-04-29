@@ -1,0 +1,25 @@
+annot_resources:
+  ko_list: "../resources/ko_list"               
+  profiles: "../resources/profiles"          
+  kofam_exec: "exec_annotation"              
+  diamond_db: "../resources/representative_seq_diamond.dmnd"
+  tmp_dir: "/dev/shm/tmp"
+
+sketch_db: "../resources/genome_sketches.msh"
+map_dict_json: "../resources/id2species.json"
+medium_vec_csv: "../resources/medium_vec.csv"
+medium_cluster_csv: "../resources/cluster_medium.csv"
+phenotypes_csv: "../resources/phenotypes.csv"
+species2medium_json: "../resources/species2medium.json"
+medium_genome_db: "../resources/medium_genome_db"
+
+glove_vectors_r: "../resources/vectors_dim300.pkl"
+glove_vectors: "../resources/vectors_dim50.pkl"
+model_folder: "../model"
+vocab_folder: "../vocab"
+
+# Parameters
+top_k: 30
+lambda_reg: 0.015
+device: 'cpu'  
+threads: 32 
