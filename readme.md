@@ -16,7 +16,7 @@
 
 ## Overview
 
-![GELATO overview 1](https://cdn.nlark.com/yuque/0/2026/png/35707472/1774410145010-4f6cd5ab-4664-4867-9acc-03a85a1e66d5.png)
+![GELATO overview 1](https://cdn.nlark.com/yuque/0/2026/png/35707472/1777465490258-6e6d5e5f-32cd-430b-9234-a7c674287c8f.png?x-oss-process=image%2Fformat%2Cwebp)
 
 ![GELATO overview 2](https://cdn.nlark.com/yuque/0/2026/png/35707472/1774410238050-88b99a34-e37e-4b0d-8fe1-a466c0d278e9.png)
 
